@@ -1,0 +1,25 @@
+Round(Double, Int32, MidpointRounding) 
+
+Округляет значение двойной точности с плавающей запятой до указанного числа дробных цифр, используя указанное соглашение о округлении.
+
+public static double Round (double value, int digits, MidpointRounding mode);
+
+ - value - Double - Округляемое число двойной точности с плавающей запятой.
+ - digits - Int32 - Количество дробных разрядов в возвращаемом значении.
+ - mode - MidpointRounding - Одно из значений перечисления, указывающее используемую стратегию округления.
+
+Возвращаемое значение - Double - число, которое содержит digits дробные цифры, value округленные до. Если value имеет меньшее количество цифр дробной части, чем digits, то value возвращается без изменений.
+
+Пример: 
+
+	double a = 3.45;
+	double result = Math.Round(a);
+	Console.WriteLine(result); // 3
+	result = Math.Round(a, 1); 
+	Console.WriteLine(result); // 3,4
+	result = Math.Round(a, 2);  
+	Console.WriteLine(result); // 3,45
+	result = Math.Round(a, 1, MidpointRounding.AwayFromZero);
+	Console.WriteLine(result); // 3,5
+	result = Math.Round(a, 1, MidpointRounding.ToEven);
+	Console.WriteLine(result); // 3,4

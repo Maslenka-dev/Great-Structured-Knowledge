@@ -1,0 +1,112 @@
+	Если класс применяет интерфейс, то этот класс должен реализовать все методы и свойства интерфейса, которые не имеют реализации по умолчанию. Однако также можно и не реализовать методы, сделав их абстрактными, переложив право их реализации на производные классы:
+
+	 	interface IAction
+        {
+            void Move();
+        }
+        abstract class Person : IAction
+        {
+            public abstract void Move();
+        }
+        class Driver : Person
+        {
+            public override void Move() => Console.WriteLine("Водитель едет");
+        }
+
+    При реализации интерфейса учитываются также методы и свойства, унаследованные от базового класса. Например:
+
+    	interface IAction
+        {
+            void Move();
+        }
+        class BaseAction
+        {
+            public void Move() => Console.WriteLine("Move in BaseAction");
+        }
+        class HeroAction : BaseAction, IAction { }
+
+    Здесь класс HeroAction реализует интерфейс IAction, однако для реализации метода Move из интерфейса применяется метод Move, унаследованный от базового класса BaseAction. Таким образом, класс HeroAction может не реализовать метод Move, так как этот метод уже определен в базовом классе BaseAction.
+
+    Следует отметить, что если класс одновременно наследует другой класс и реализует интерфейс, как в примере выше класс HeroAction, то название базового класса должно быть указано до реализуемых интерфейсов:
+
+    	class HeroAction : BaseAction, IAction
+
+Изменение реализации интерфейсов в производных классах
+
+	Может сложиться ситуация, что базовый класс реализовал интерфейс, но в классе-наследнике необходимо изменить реализацию этого интерфейса. Что в этом случае делать? В этом случае мы можем использовать либо переопределение, либо скрытие метода или свойства интерфейса.
+
+	Первый вариант - переопределение виртуальных/абстрактных методов:
+
+	 	interface IAction
+        {
+            void Move();
+        }
+        class BaseAction : IAction
+        {
+            public virtual void Move() => Console.WriteLine("Move in BaseAction");
+        }
+        class HeroAction : BaseAction 
+        {
+            public override void Move() => Console.WriteLine("Move in HeroAction");
+        }
+
+    В базовом классе BaseAction реализованный метод интерфейса определен как виртуальный (можно было бы также сделать его абстрактным), а в производном классе он переопределен.
+
+    При вызове метода через переменную интерфейса, если она ссылается на объект производного класса, будет использоваться реализация из производного класса:
+
+		BaseAction action1 = new HeroAction();
+        action1.Move(); // Move in HeroAction
+
+    	IAction action2 = new HeroAction();
+        action2.Move(); // Move in HeroAction
+
+ 	Второй вариант - скрытие метода в производном классе:
+
+ 		interface IAction
+        {
+            void Move();
+        }
+        class BaseAction : IAction
+        {
+            public void Move() => Console.WriteLine("Move in BaseAction");
+        }
+        class HeroAction : BaseAction
+        {
+            public new void Move() => Console.WriteLine("Move in HeroAction");
+        }
+
+    Также используем эти классы:
+
+    	BaseAction action1 = new HeroAction();
+		action1.Move(); // Move in BaseAction
+ 
+		IAction action2 = new HeroAction();
+		action2.Move(); // Move in BaseAction	 
+
+	Так как интерфейс реализован именно в классе BaseAction, то через переменную action2 можно обратиться только к реализации метода Move из базового класса BaseAction.
+
+	Третий вариант - повторная реализация интерфейса в классе-наследнике:
+
+		interface IAction
+        {
+            void Move();
+        }
+        class BaseAction : IAction
+        {
+            public void Move() => Console.WriteLine("Move in BaseAction");
+        }
+        class HeroAction : BaseAction, IAction 
+        {
+            public new void Move() => Console.WriteLine("Move in HeroAction");
+        }
+
+    В этом случае реализации этого метода из базового класса будет игнорироваться:
+
+	    BaseAction action1 = new HeroAction();
+		action1.Move();            // Move in BaseAction
+	 
+		IAction action2 = new HeroAction();
+		action2.Move();             // Move in HeroAction
+
+	Также стоит отметить, что в случае с переменной action1 по-прежнему действует ранее связывание, в силу которого через эту переменную можно вызвать реализацию метода Move только из базового класса, который эта переменная представляет.
+	 
