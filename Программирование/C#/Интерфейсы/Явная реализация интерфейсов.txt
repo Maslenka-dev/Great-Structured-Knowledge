@@ -1,0 +1,80 @@
+	Кроме неявного применения интерфейсов, которое было рассмотрено в прошлой статье, сушествует также явная реализация интерфейса. При явной реализации указывается название метода или свойства вместе с названием интерфейса, при этом мы не можем использовать модификатор public, то есть методы являются закрытыми:
+
+	 	interface IAction
+        {
+            void Move();
+        }
+        class Car : IAction 
+        {
+            void IAction.Move() => Console.WriteLine("Машина едет");
+        }
+
+    Следует учитывать, что при явной реализации интерфейса его методы и свойства не являются частью интерфейса класса. Поэтому напрямую через объект класса мы к ним обратиться не сможем:
+    
+		// небезопасное приведение
+        Car car = new Car();
+        ((IAction)car).Move();
+        //безопасное проведение
+        if (car is IAction action) action.Move();
+        // или так 
+        IAction action2 = new Car();
+        action2.Move();    	
+
+    В какой ситуации может действительно понадобиться явная реализация интерфейса? Например, когда класс применяет несколько интерфейсов, но они имеют один и тот же метод с одним и тем же возвращаемым результатом и одним и тем же набором параметров:
+
+		class Person : ISchool, IUniversity
+		{
+		    public void Study() => Console.WriteLine("Учеба в школе или в университете");
+		}
+		interface ISchool
+		{
+		    void Study();
+		}
+		interface IUniversity
+		{
+		    void Study();
+		}
+
+	Класс Person определяет один метод Study(), создавая одну общую реализацию для обоих примененных интерфейсов. И вне зависимости от того, будем ли мы рассматривать объект Person как объект типа ISchool или IUniversity, результат метода будет один и тот же.
+
+	Чтобы разграничить реализуемые интерфейсы, надо явным образом применить интерфейс:\
+	
+		class Person : IUneversity, ISchool
+        {
+            void IUneversity.Study() => Console.WriteLine("Обучение в университете");
+            void ISchool.Study() => Console.WriteLine("Обучение в школе");
+        }
+
+    Использование: 
+
+     	public static void Main(string[] args)
+        {
+            Person pers = new Person();
+            ((IUneversity)pers).Study();
+            ((ISchool)pers).Study();
+        }
+
+    Другая ситуация, когда в базовом классе уже реализован интерфейс, но необходимо в производном классе по-своему реализовать интерфейс:
+
+      	interface IAction
+        {
+            void Move();
+        }
+        class BaseClass : IAction
+        {
+            public void Move() => Console.WriteLine("Идти вперед");
+        }
+        class Car : BaseClass, IAction
+        {
+            void IAction.Move() => Console.WriteLine("Ехать вперед");
+        }
+ы
+    Несмотря на то, что базовый класс BaseClass уже реализовал интерфейс IAction, но производный класс по-своему реализует его. Применение классов:
+
+   		public static void Main(string[] args)
+        {
+            Car car = new Car();
+            car.Move();
+            ((IAction)car).Move();
+        }
+
