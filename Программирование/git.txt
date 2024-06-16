@@ -29,4 +29,6 @@ git merge somebranch:	 переключается на ветку main, объе
 
 git merge somebranch --allow-unrelated-histories: 	при ошибке «refusing to merge unrelated histories»
 
+git pull - это git fetch + git merge. Первая команда забирает с удалённого репозитория его текущее состояние, не меняя файлов рабочей папки, вторая пытается слить изменения удалённого и локального репозиториев.
+
 clear:	Очистить консоль
