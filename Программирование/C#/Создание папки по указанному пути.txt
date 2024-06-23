@@ -1,9 +1,0 @@
-Метод для создания папки, если ее нет по текущему пути(path):
-
-    void CreateFolderIfNotExists(string path) 
-    {
-        if (!Directory.Exists(path))
-        {
-            Directory.CreateDirectory(path);
-        }
-    }
