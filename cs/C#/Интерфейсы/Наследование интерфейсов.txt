@@ -1,0 +1,77 @@
+	Интерфейсы, как и классы, могут наследоваться:
+
+ 		interface IAction
+        {
+            void Move();
+        }
+        interface IRunAction : IAction
+        {
+            void Run();
+        }
+        class BaseClass : IRunAction
+        {
+            public void Move() => Console.WriteLine("I am moving");
+            public void Run() => Console.WriteLine("I am running");
+        }
+
+    При применении этого интерфейса класс BaseAction должен будет реализовать как методы и свойства интерфейса IRunAction, так и методы и свойства базового интерфейса IAction, если эти методы и свойства не имеют реализации по умолчанию.
+
+    Однако в отличие от классов мы не можем применять к интерфейсам модификатор sealed, чтобы запретить наследование интерфейсов.
+
+    Также мы не можем применять к интерфейсам модификатор abstract, поскольку интерфейс фактически итак, как правило, предоставляет абстрактный функционал, который должен быть реализован в классе или структуре (за исключением методов и свойств с реализацией по умолчанию).
+
+    Однако методы интерфейсов могут использовать ключевое слово new для скрытия методов из базового интерфейса:
+
+    	public static void Main(string[] args)
+        {
+            IRunAction action1 = new BaseClass();
+            action1.Move(); // I am running
+
+            IAction action2 = new BaseClass();
+            action2.Move(); // I am moving
+        }
+        interface IAction
+        {
+            void Move() => Console.WriteLine("I am moving");
+        }
+        interface IRunAction : IAction
+        {
+            new void Move() => Console.WriteLine("I am running");
+        }
+        class BaseClass : IRunAction { }
+
+    Здесь метод Move из IRunAction скрывает метод Move из базового интерфейса IAction. Это имеет смысл, если в базовом интерфейсе определена реализация по умолчанию, как в случае выше, которую нужно переопределить. И в случае выше, если переменная представляет тип IRunAction, то для метода Move вызывается реализация этого интерфейса:
+
+    	IRunAction action2 = new RunAction();
+		action2.Move(); // I am running
+
+	Иначе если переменная представляет тип IAction, то для метода Move применяется реализация этого интерфейса:
+
+		IAction action1 = new RunAction();
+		action1.Move(); // I am moving
+
+	Но класс RunAction может переопределить метод Move сразу для обоих интерфейсов.
+
+		public static void Main(string[] args)
+        {
+            IRunAction action1 = new BaseClass();
+            action1.Move(); // I am tired
+
+            IAction action2 = new BaseClass();
+            action2.Move(); // I am tired
+        }
+        interface IAction
+        {
+            void Move() => Console.WriteLine("I am moving");
+        }
+        interface IRunAction : IAction
+        {
+            new void Move() => Console.WriteLine("I am running");
+        }
+        class BaseClass : IRunAction
+        {
+            public void Move() => Console.WriteLine("I am tired");
+        }
+
+    При наследовании интерфейсов следует учитывать, что, как и при наследовании классов, производный интерфейс должен иметь тот же уровень доступа или более строгий, чем базовый интерфейс. 
+
