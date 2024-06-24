@@ -1,0 +1,48 @@
+Console.ForegroundColor и Console.BackgroundColor - свойства
+
+	Получает или задает цвет переднего или заднего плана консоли.
+
+	Console.BackgroundColor = ConsoleColor.Black;
+	Console.BackgroundColor = ConsoleColor.Red;
+	Console.ForegroundColor = ConsoleColor.Black;
+	Console.ForegroundColor = ConsoleColor.Cyan;
+
+Empty - поле, позволяющее сделать строку пустой
+
+	string empty = string.Empty; 
+
+Concat - метод, соединяющий строки
+
+	string concat = string.Concat("My ", "Name ", "Is ", "Tom");
+
+Join - метод, соединяющий строки, но первым аргументом является разделитель между строками
+
+	string join = string.Join(" ", "My", "Name", "Is", "Tom");
+
+Insert - метод, возвращающий строку в указанной позиции индекса
+
+	sting insert = concat.Insert(0, "Input: "); // Input: My Name Is Tom
+
+Remove(1) - метод, возвращающий новую строку, в которой удалено указанное количество символов из текущей строки.
+
+	string remove = join.Remove(5); // My Na
+
+Remove(2) - метод, возвращающий новую строку, в которой было удалено указанное количество символов в текущем экземпляре, начиная с указанной позиции.
+
+	string remove2 = join.Remove(5, 5); // My Na Tom
+
+Replace - метод, заменяющий один символ на другой
+
+	string replace = concat.Replace('m', 't');
+
+Split - метод, позволяющий убрать разделитель
+
+	string name = "12;28;46;82;17";
+	string name2 = name.Split(';');
+
+ToCharArray - метод, возвращающий массив символов из строки
+
+	char[] chars = сoncat.ToCharArray();
+
+string lower = NameConcat.ToLower(); // К нижнему регистру
+string upper = NameConcat.ToUpper(); // К верхнему регистру
