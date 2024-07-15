@@ -46,3 +46,27 @@ ToCharArray - метод, возвращающий массив символов
 
 string lower = NameConcat.ToLower(); // К нижнему регистру
 string upper = NameConcat.ToUpper(); // К верхнему регистру
+
+Contains -  метод, проверяющий содержит ли строка определенное значение
+
+	string txt = "The worst language of programming";
+	bool ContainsOfLetterO = txt.Contains("o");
+	Console.WriteLine(ContainsOfLetterO); // True
+
+EndsWith - метод, проверяющий заканчивается ли строка на какую либо подстроку или символ
+
+	string txt = "The worst language of programming";
+	bool EndsWithIng = txt.EndsWith("ing");
+	Console.WriteLine(EndsWithIng); // True
+
+StartsWith - метод, проверяющий начинается ли строка с какой либо подстроки или символа
+	
+	string txt = "The worst language of programming";
+	bool StartWithThe = txt.StartsWith("The");
+	Console.WriteLine(StartsWithThe); // True
+
+Substring - метод, выдающий строку начиная с определенного индекса
+
+	string txt = "The worst language of programming";
+	string Substring = txt.Substring(4);
+	Console.WriteLine(Substring); // worst language of programming
