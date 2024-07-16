@@ -44,9 +44,6 @@ ToCharArray - метод, возвращающий массив символов
 
 	char[] chars = сoncat.ToCharArray();
 
-string lower = NameConcat.ToLower(); // К нижнему регистру
-string upper = NameConcat.ToUpper(); // К верхнему регистру
-
 Contains -  метод, проверяющий содержит ли строка определенное значение
 
 	string txt = "The worst language of programming";
