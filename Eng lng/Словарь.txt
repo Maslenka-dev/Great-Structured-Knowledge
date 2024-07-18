@@ -8,19 +8,26 @@ Alert - тревога
 Alternate - чередовать
 Although - несмотря на то что, хотя
 Amount - сумма
-Announce - объявить
+Amazing - удивительный
+Among - среди
+Announce - объявлять
 Anyway - в любом случае
 Appear - приближаться/появляться
 Approach - приближение
 Area - площадь
 Arrive - прибывать
 As soon - как только
+Asshole - мудак
+Assassin - убийца
 Attempt - попытка
 Attention - внимание
+Available - доступно
 Awake - проснуться
-Awere - осведомлен
+Aware - осведомлен
+Ahead - впереди
 
 Bar - плитка
+Bakery - перарня
 Basic - основной.
 Beat - взбить/бить
 Below - ниже
@@ -32,7 +39,9 @@ Blind - слепой
 Bored - скучающий
 Bottom - дно, низ, внизу
 By the time - к тому времени
-Browsre - просматривать
+Browse - просматривать
+Brave - храбрый
+Bottle - бутылка
 
 Calm - спокойный
 Cannot - нельзя
@@ -41,6 +50,7 @@ Circle - круг
 Collapse - крах
 Common - общий
 Communication - общение
+Conversation - разговор
 Conclusion - вывод
 Consume - потреблять
 Contain - содержать
@@ -49,19 +59,22 @@ Crowded - переполненный
 Currently - в настоящий момент
 Current - текущий
 Certain - определенный
+Certainly - определенно, конечно
 
 Dazzle me - удиви меня
 Deadline - крайний срок
 Dedicated - посвященный
 Deliver - доставлять
-Deside - решать
+Destination - место назначения
+Decide - решать
 Desk job - работа в офисе
 Despite - несмотря на
 Destiny - судьба
 Different way - по другому
 Disappear - пропадать
 Disappointed - разочарованный
-Disastrous - катострофический 
+Disastrous - катастрофический
+Disable - отключить
 Doubts - сомнения
 Downstairs - вниз по лестнице
 Drip - Капать
@@ -72,18 +85,25 @@ Directory - каталог
 East - восток
 Emergency - чрезвычайная ситуация
 Enough - достаточно
+Enhance - улучшить. Enhanced - улучшенный
 Estimated - оцененный
+Essentially - существенно, значительно
+Especially - особенно
+Establish - установить
 Exactly - именно так
-Exception - Исключение
+Exception - исключение
 Excited - возбужденный
 Exhausted - измученный
 Expect - кроме
 Explain - объяснять
 Event - событие
-Enviroment - окружающая среда, окружение
+Environment - окружающая среда, окружение
 Exists - существует
+Equal - равно
 
 Fault - ошибка
+Fancy - нарядный, модный, шикарный
+Falcon - сокол
 Feedback - обратная связь
 Few - несколько
 Fill - заполнять
@@ -91,60 +111,78 @@ Font - шрифт
 Forbidden - Запрещено
 Fortunately - к счастью
 Framework - рамки
+Freak - чудак, фрик. Freaking - долбанный
 Funny - смешной, забавный
 Furniture - мебель
 
 Genuinely - искренне
 Give up - сдаваться
 Goofy - глупый
+Going to | Gonna - собираться 
 Grand - великий, роскошный
-Grate - натереть
 Greetings - приветствую
+Guardian - страж
 
 Happy - счастливый
 Height - высота
 Hold - держать
 Honor - честь, уважение, почесть
-However - однако 
+Honest - честный
+However - однако
 Huge - огромный
+Healthy - здоровый
+Heat - жара
 
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
-I second that - я поддерживаю это 
+I second that - я поддерживаю это
 Immediately - немедленно
+Initialize - инициализировать
 Impact - влияние
 Impossible - невозможно
+Incredible - невероятно
 Intermediate - промежуточный
 International - международный
-Introduce - вводить 	
+Introduce - вводить     
 Introducing - введение
 Invalid - неправильно
 Issues - вопросы
 Intention - намерение
 
 Kind - тип
+Kinda - вроде
+Kidnap - похищать
+Kingdom - царство
 
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
+Less - меньше 
 
 Mad - безумный
+Majestic - величественный 
 Manage - управлять
 Melt - растопить
 Memorize - запомнить, выучить наизусть
 Might - вероятно
 Modern - современный
 
+Network - сеть - любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
+Neck - шея
+Nuclear - ядерный
 
+Obviously - очевидно
 Opinion - мнение
 Origin - истоки/происхождение
 Outlet - выход
 Offer - предложение
 One more time - еще раз
+Organized - организованный
+Opportunity - возможность
 
 Pale - бледный
 Part-time - неполная занятость
@@ -152,14 +190,16 @@ Pass - сдать / пройти
 Pattern - узор/шаблон
 Pay rise - повышение зарплаты
 Peel - чистить
+Perhaps - возможно
 Pinch of salt - щепотка соли
 Pleasure - удовольствие
 Polka dot - в горошек
 Possible - возможно
-Pour - налитьы
+Pour - наливать
 Pressure - давление
 Probably - вероятно
-Prohibition - Запрет
+Prohibition - запрет
+Print - печатать
 Promise - обещать
 Prediction - предсказание
 Puppy - щенок
@@ -174,7 +214,6 @@ Recover - Восстанавливаться
 Rectangle - квадрат
 Rectangular - прямоугольный
 Refusal - отказ
-Regret - желеть
 Regret - сожалеть
 Regard - уважение, отношение / warm regards - с теплыми пожеланиями
 Relationships - отношения
@@ -182,51 +221,70 @@ Remind - напоминать
 Remind - напомни
 Reportedly - Сообщается
 Represent - представлять
+Receive - получать 
+Receiver - получатель, приемник
 Resolve - решать
+Resolution - разрешение
 Response - ответ
+Refresh - обновить
+Request - запрос
 Revelations - откровения
 Right - правильно
 Rise - подниматься
 Request - запрос
+Require - требовать. Requirement - требование
+Responsible - ответственный
+Relative - родственник, сравнительный 
 
 Sad - грустный
 Salary - зарплата
-Scared - напуганный
+Scare - пугать
 Second-hand - подержанный
+Seems - кажется 
+Semi - полу
 Separate - разделитель
+Send - посылать
 Share - делиться
 Sharp - острый
+Schedule - график, расписание
+Special - особый
 Shift - смена
 Show - показывать
 Similar - похожи
 Sincerely - искренне
 Size - размер
 Slice - ломтик
-Solitude - одиночество 
-Soon - скоро 
+Solitude - одиночество
+Soon - скоро
+Source - источник 
 Still - все еще
 Striped - полосатый
+Stripe - полоса
+Statement - заявление
 Suddenly - внезапно
 Sure - конечно
 Surprised - удивленный
 Survived - выживший
+Switch - переключатель, переключать
+Squash - раздавить
 
 Teaspoon - чайная ложка
-Thougt - мысль
+Term - термин
+Thought - мысль
 Through - через
 Tough - жесткий
 Thunder - гром
 Tiny - крошечный
-Tough - жесткий
 Towel - полотенце
+Top down - сверху вниз
 Trade - торговля
 Triangle - треугольник
-Triangular - треугольны
+Triangular - треугольный
 Try out - попробуйте
 Trust - доверять
 
 Unfortunately - к сожалению
-Unity - единство 
+Unity - единство
 Unlike - непохож
 Unpredictable - непредсказуемый
 Upstairs - вверх по лестнице
@@ -235,14 +293,15 @@ Violent - грубый
 Victim - жертва
 
 Warning - предупреждение
+Wanna | Want to - хотеть 
 We are of one mind - мы придерживаемся одного мнения
 West - запад
-What is that mean - что это значит 
+What is that mean - что это значит
 Wherever - где бы
 Width - ширина
 Wise - мудрый
 Wish - желаю
 Wooden - деревянный
 Woollen - шерстяной
-Worry - беспокоиться 
+Worry - беспокоиться
 Wrong - неправильно
