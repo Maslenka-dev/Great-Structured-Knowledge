@@ -4,12 +4,14 @@ Absolutely - абсолютно
 Actually - фактически
 Admit - признавать
 Advice - совет
+Ahead - впереди
 Alert - тревога
+Allow - позволять
 Alternate - чередовать
 Although - несмотря на то что, хотя
-Amount - сумма
 Amazing - удивительный
 Among - среди
+Amount - сумма
 Announce - объявлять
 Anyway - в любом случае
 Appear - приближаться/появляться
@@ -17,94 +19,99 @@ Approach - приближение
 Area - площадь
 Arrive - прибывать
 As soon - как только
-Asshole - мудак
 Assassin - убийца
+Asshole - мудак
 Attempt - попытка
 Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
-Ahead - впереди
 
-Bar - плитка
 Bakery - перарня
+Bar - плитка
 Basic - основной.
 Beat - взбить/бить
-Below - ниже
 Being - существование
+Below - ниже
 Besides - кроме того
 Bisect - делить пополам
 Blame - вина
 Blind - слепой
 Bored - скучающий
-Bottom - дно, низ, внизу
-By the time - к тому времени
-Browse - просматривать
-Brave - храбрый
 Bottle - бутылка
+Bottom - дно, низ, внизу
+Brave - храбрый
+Browse - просматривать
+By the time - к тому времени
 
 Calm - спокойный
 Cannot - нельзя
+Certain - определенный
+Certainly - определенно, конечно
 Checked - клеточный
 Circle - круг
 Collapse - крах
 Common - общий
 Communication - общение
-Conversation - разговор
 Conclusion - вывод
+Condition - состояние
 Consume - потреблять
 Contain - содержать
+Conversation - разговор
 Cover - покрытие
 Crowded - переполненный
-Currently - в настоящий момент
 Current - текущий
-Certain - определенный
-Certainly - определенно, конечно
+Currently - в настоящий момент
 
 Dazzle me - удиви меня
 Deadline - крайний срок
-Dedicated - посвященный
-Deliver - доставлять
-Destination - место назначения
 Decide - решать
+Dedicated - посвященный
+Definitely - однозначно
+Deliver - доставлять
 Desk job - работа в офисе
 Despite - несмотря на
+Destination - место назначения
 Destiny - судьба
 Different way - по другому
+Directory - каталог
+Disable - отключить
 Disappear - пропадать
 Disappointed - разочарованный
 Disastrous - катастрофический
-Disable - отключить
+Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
 Drip - Капать
 Duration - продолжительность
-Definitely - однозначно
-Directory - каталог
 
+Earning - заработок
 East - восток
 Emergency - чрезвычайная ситуация
-Enough - достаточно
 Enhance - улучшить. Enhanced - улучшенный
-Estimated - оцененный
-Essentially - существенно, значительно
+Enough - достаточно
+Entertainment - развлечение
+Environment - окружающая среда, окружение
+Equal - равно
 Especially - особенно
+Essentially - существенно, значительно
 Establish - установить
+Estimated - оцененный
+Event - событие
 Exactly - именно так
 Exception - исключение
 Excited - возбужденный
 Exhausted - измученный
+Exists - существует
 Expect - кроме
 Explain - объяснять
-Event - событие
-Environment - окружающая среда, окружение
-Exists - существует
-Equal - равно
 
-Fault - ошибка
-Fancy - нарядный, модный, шикарный
 Falcon - сокол
+Fame - слава
+Fancy - нарядный, модный, шикарный
+Fault - ошибка
 Feedback - обратная связь
+Female - женский
 Few - несколько
 Fill - заполнять
 Font - шрифт
@@ -115,74 +122,79 @@ Freak - чудак, фрик. Freaking - долбанный
 Funny - смешной, забавный
 Furniture - мебель
 
+Gate - ворота
 Genuinely - искренне
 Give up - сдаваться
-Goofy - глупый
 Going to | Gonna - собираться 
+Goofy - глупый
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
 
 Happy - счастливый
-Height - высота
-Hold - держать
-Honor - честь, уважение, почесть
-Honest - честный
-However - однако
-Huge - огромный
 Healthy - здоровый
 Heat - жара
+Height - высота
+Hold - держать
+Honest - честный
+Honor - честь, уважение, почесть
+However - однако
+Huge - огромный
 
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
 I second that - я поддерживаю это
 Immediately - немедленно
-Initialize - инициализировать
 Impact - влияние
 Impossible - невозможно
 Incredible - невероятно
+Initialize - инициализировать
+Initially - первоначально
+Intention - намерение
 Intermediate - промежуточный
 International - международный
 Introduce - вводить     
 Introducing - введение
 Invalid - неправильно
 Issues - вопросы
-Intention - намерение
+It’s not right - это неправильно
 
+Kidnap - похищать
 Kind - тип
 Kinda - вроде
-Kidnap - похищать
 Kingdom - царство
 
+Less - меньше 
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
-Less - меньше 
 
 Mad - безумный
 Majestic - величественный 
+Male - мужской, мужчина
 Manage - управлять
 Melt - растопить
 Memorize - запомнить, выучить наизусть
 Might - вероятно
+Mindset - образ мышления
 Modern - современный
 
+Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
-Neck - шея
 Nuclear - ядерный
 
 Obviously - очевидно
-Opinion - мнение
-Origin - истоки/происхождение
-Outlet - выход
 Offer - предложение
 One more time - еще раз
-Organized - организованный
+Opinion - мнение
 Opportunity - возможность
+Organized - организованный
+Origin - истоки/происхождение
+Outlet - выход
 
 Pale - бледный
 Part-time - неполная занятость
@@ -196,92 +208,103 @@ Pleasure - удовольствие
 Polka dot - в горошек
 Possible - возможно
 Pour - наливать
+Prediction - предсказание
 Pressure - давление
+Print - печатать
 Probably - вероятно
 Prohibition - запрет
-Print - печатать
 Promise - обещать
-Prediction - предсказание
 Puppy - щенок
+
+Quote - цитата
 
 Raise - поднимать
 Realize - осознавать
 Reason - причина
 Recall - вспоминать
+Receive - получать 
+Receiver - получатель, приемник
 Recently - недавно
 Recognize - распознавать, узнавать
 Recover - Восстанавливаться
 Rectangle - квадрат
 Rectangular - прямоугольный
+Refresh - обновить
 Refusal - отказ
-Regret - сожалеть
+Regard - уважение
 Regard - уважение, отношение / warm regards - с теплыми пожеланиями
+Regret - сожалеть
 Relationships - отношения
+Relative - родственник, сравнительный 
 Remind - напоминать
 Remind - напомни
 Reportedly - Сообщается
 Represent - представлять
-Receive - получать 
-Receiver - получатель, приемник
-Resolve - решать
-Resolution - разрешение
-Response - ответ
-Refresh - обновить
 Request - запрос
-Revelations - откровения
-Right - правильно
-Rise - подниматься
 Request - запрос
 Require - требовать. Requirement - требование
+Resolution - разрешение
+Resolve - решать
+Response - ответ
 Responsible - ответственный
-Relative - родственник, сравнительный 
+Revelations - откровения
+Revenge - месть
+Right - правильно
+Rise - подниматься
 
 Sad - грустный
 Salary - зарплата
+Savage - дикарь
 Scare - пугать
+Schedule - график, расписание
 Second-hand - подержанный
 Seems - кажется 
 Semi - полу
-Separate - разделитель
 Send - посылать
+Separate - разделитель
+Share - делиться
 Share - делиться
 Sharp - острый
-Schedule - график, расписание
-Special - особый
+Shemale - транссексуал
 Shift - смена
 Show - показывать
 Similar - похожи
 Sincerely - искренне
 Size - размер
 Slice - ломтик
+Solid - твердый
 Solitude - одиночество
 Soon - скоро
 Source - источник 
+Special - особый
+Spit - плевать
+Squash - раздавить
+Statement - высказывание / утверждение
 Still - все еще
-Striped - полосатый
 Stripe - полоса
-Statement - заявление
+Striped - полосатый
+Sub - под, почти
 Suddenly - внезапно
 Sure - конечно
 Surprised - удивленный
 Survived - выживший
+Suspect - подозревать
 Switch - переключатель, переключать
-Squash - раздавить
 
 Teaspoon - чайная ложка
 Term - термин
 Thought - мысль
 Through - через
-Tough - жесткий
 Thunder - гром
 Tiny - крошечный
-Towel - полотенце
 Top down - сверху вниз
+Tough - жесткий
+Towel - полотенце
 Trade - торговля
 Triangle - треугольник
 Triangular - треугольный
-Try out - попробуйте
 Trust - доверять
+Try out - попробуйте
 
 Unfortunately - к сожалению
 Unity - единство
@@ -289,11 +312,11 @@ Unlike - непохож
 Unpredictable - непредсказуемый
 Upstairs - вверх по лестнице
 
-Violent - грубый
 Victim - жертва
+Violent - грубый
 
-Warning - предупреждение
 Wanna | Want to - хотеть 
+Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
 West - запад
 What is that mean - что это значит
