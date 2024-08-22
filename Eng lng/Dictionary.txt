@@ -26,8 +26,7 @@ Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
-
-Bakery - перарня
+Bakery - пекарня
 Bar - плитка
 Basic - основной.
 Beat - взбить/бить
@@ -43,7 +42,6 @@ Bottom - дно, низ, внизу
 Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
-
 Calm - спокойный
 Cannot - нельзя
 Certain - определенный
@@ -62,7 +60,6 @@ Cover - покрытие
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
-
 Dazzle me - удиви меня
 Deadline - крайний срок
 Decide - решать
@@ -84,7 +81,6 @@ Doubts - сомнения
 Downstairs - вниз по лестнице
 Drip - Капать
 Duration - продолжительность
-
 Earning - заработок
 East - восток
 Emergency - чрезвычайная ситуация
@@ -105,7 +101,6 @@ Exhausted - измученный
 Exists - существует
 Expect - кроме
 Explain - объяснять
-
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -121,7 +116,6 @@ Framework - рамки
 Freak - чудак, фрик. Freaking - долбанный
 Funny - смешной, забавный
 Furniture - мебель
-
 Gate - ворота
 Genuinely - искренне
 Give up - сдаваться
@@ -130,7 +124,6 @@ Goofy - глупый
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
-
 Happy - счастливый
 Healthy - здоровый
 Heat - жара
@@ -140,7 +133,6 @@ Honest - честный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
-
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
 I second that - я поддерживаю это
@@ -158,18 +150,15 @@ Introducing - введение
 Invalid - неправильно
 Issues - вопросы
 It’s not right - это неправильно
-
 Kidnap - похищать
 Kind - тип
 Kinda - вроде
 Kingdom - царство
-
 Less - меньше 
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
-
 Mad - безумный
 Majestic - величественный 
 Male - мужской, мужчина
@@ -179,14 +168,12 @@ Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
 Modern - современный
-
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
 Nuclear - ядерный
-
 Obviously - очевидно
 Offer - предложение
 One more time - еще раз
@@ -195,7 +182,6 @@ Opportunity - возможность
 Organized - организованный
 Origin - истоки/происхождение
 Outlet - выход
-
 Pale - бледный
 Part-time - неполная занятость
 Pass - сдать / пройти
@@ -215,9 +201,7 @@ Probably - вероятно
 Prohibition - запрет
 Promise - обещать
 Puppy - щенок
-
 Quote - цитата
-
 Raise - поднимать
 Realize - осознавать
 Reason - причина
@@ -251,7 +235,6 @@ Revelations - откровения
 Revenge - месть
 Right - правильно
 Rise - подниматься
-
 Sad - грустный
 Salary - зарплата
 Savage - дикарь
@@ -290,7 +273,6 @@ Surprised - удивленный
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать
-
 Teaspoon - чайная ложка
 Term - термин
 Thought - мысль
@@ -305,16 +287,13 @@ Triangle - треугольник
 Triangular - треугольный
 Trust - доверять
 Try out - попробуйте
-
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
 Unpredictable - непредсказуемый
 Upstairs - вверх по лестнице
-
 Victim - жертва
 Violent - грубый
-
 Wanna | Want to - хотеть 
 Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
