@@ -79,6 +79,7 @@ Disastrous - катастрофический
 Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
+Download - скачать, установить
 Drip - Капать
 Duration - продолжительность
 Earning - заработок
@@ -96,7 +97,7 @@ Estimated - оцененный
 Event - событие
 Exactly - именно так
 Exception - исключение
-Excited - возбужденный
+Excited - возбужденный, взволнованный
 Exhausted - измученный
 Exists - существует
 Expect - кроме
@@ -180,11 +181,11 @@ One more time - еще раз
 Opinion - мнение
 Opportunity - возможность
 Organized - организованный
-Origin - истоки/происхождение
+Origin - истоки, происхождение
 Outlet - выход
 Pale - бледный
 Part-time - неполная занятость
-Pass - сдать / пройти
+Pass - сдать, пройти
 Pattern - узор/шаблон
 Pay rise - повышение зарплаты
 Peel - чистить
