@@ -216,7 +216,7 @@ Rectangular - прямоугольный
 Refresh - обновить
 Refusal - отказ
 Regard - уважение
-Regard - уважение, отношение / warm regards - с теплыми пожеланиями
+Warm regards - с теплыми пожеланиями
 Regret - сожалеть
 Relationships - отношения
 Relative - родственник, сравнительный 
