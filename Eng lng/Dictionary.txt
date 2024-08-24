@@ -28,8 +28,8 @@ Awake - проснуться
 Aware - осведомлен
 Bakery - пекарня
 Bar - плитка
-Basic - основной.
-Beat - взбить/бить
+Basic - основной
+Beat - взбить, бить
 Being - существование
 Below - ниже
 Besides - кроме того
@@ -80,7 +80,7 @@ Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
 Download - скачать, установить
-Drip - Капать
+Drip - копать
 Duration - продолжительность
 Earning - заработок
 East - восток
@@ -263,7 +263,7 @@ Source - источник
 Special - особый
 Spit - плевать
 Squash - раздавить
-Statement - высказывание / утверждение
+Statement - высказывание, утверждение
 Still - все еще
 Stripe - полоса
 Striped - полосатый
