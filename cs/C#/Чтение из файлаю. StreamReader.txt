@@ -12,3 +12,13 @@
 
 	- string ReadToEnd(): считывает весь текст из файла.
 
+Рассмотрим чтение из файла на примере:
+
+	StreamReader streamReader = new StreamReader(pathOfFile);
+	string?[] lines = new string[10];
+	for (int i = 0; i < lines.Length; i++)
+	{
+    	lines[i] = streamReader.ReadLine();
+	}
+
+В данном куске кода создается объект класса StreamReader и массив строк из 10 строк. Далее в цикле for массив перебирается и заполняется строками из файла, который считывает объект класса StreamReader. ФСЁ.
