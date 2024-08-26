@@ -26,10 +26,11 @@ Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
-Bakery - пекарня
+
+Bakery - перарня
 Bar - плитка
-Basic - основной
-Beat - взбить, бить
+Basic - основной.
+Beat - взбить/бить
 Being - существование
 Below - ниже
 Besides - кроме того
@@ -37,11 +38,13 @@ Bisect - делить пополам
 Blame - вина
 Blind - слепой
 Bored - скучающий
+Bounds - границы
 Bottle - бутылка
 Bottom - дно, низ, внизу
 Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
+
 Calm - спокойный
 Cannot - нельзя
 Certain - определенный
@@ -60,6 +63,7 @@ Cover - покрытие
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
+
 Dazzle me - удиви меня
 Deadline - крайний срок
 Decide - решать
@@ -79,9 +83,9 @@ Disastrous - катастрофический
 Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
-Download - скачать, установить
-Drip - копать
+Drip - Капать
 Duration - продолжительность
+
 Earning - заработок
 East - восток
 Emergency - чрезвычайная ситуация
@@ -97,11 +101,12 @@ Estimated - оцененный
 Event - событие
 Exactly - именно так
 Exception - исключение
-Excited - возбужденный, взволнованный
+Excited - возбужденный
 Exhausted - измученный
 Exists - существует
 Expect - кроме
 Explain - объяснять
+
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -117,14 +122,16 @@ Framework - рамки
 Freak - чудак, фрик. Freaking - долбанный
 Funny - смешной, забавный
 Furniture - мебель
+
 Gate - ворота
 Genuinely - искренне
 Give up - сдаваться
-Going to | Gonna - собираться 
+Going to | Gonna - собираться
 Goofy - глупый
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
+
 Happy - счастливый
 Healthy - здоровый
 Heat - жара
@@ -134,6 +141,7 @@ Honest - честный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
+
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
 I second that - я поддерживаю это
@@ -146,22 +154,27 @@ Initially - первоначально
 Intention - намерение
 Intermediate - промежуточный
 International - международный
-Introduce - вводить     
+Introduce - вводить	 
 Introducing - введение
 Invalid - неправильно
+Inspection - анализ
 Issues - вопросы
 It’s not right - это неправильно
+
 Kidnap - похищать
 Kind - тип
 Kinda - вроде
 Kingdom - царство
-Less - меньше 
+
+Less - меньше
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
+Launch - запуск
+
 Mad - безумный
-Majestic - величественный 
+Majestic - величественный
 Male - мужской, мужчина
 Manage - управлять
 Melt - растопить
@@ -169,23 +182,26 @@ Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
 Modern - современный
+
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
 Nuclear - ядерный
+
 Obviously - очевидно
 Offer - предложение
 One more time - еще раз
 Opinion - мнение
 Opportunity - возможность
 Organized - организованный
-Origin - истоки, происхождение
+Origin - истоки/происхождение
 Outlet - выход
+
 Pale - бледный
 Part-time - неполная занятость
-Pass - сдать, пройти
+Pass - сдать / пройти
 Pattern - узор/шаблон
 Pay rise - повышение зарплаты
 Peel - чистить
@@ -202,12 +218,14 @@ Probably - вероятно
 Prohibition - запрет
 Promise - обещать
 Puppy - щенок
+
 Quote - цитата
+
 Raise - поднимать
 Realize - осознавать
 Reason - причина
 Recall - вспоминать
-Receive - получать 
+Receive - получать
 Receiver - получатель, приемник
 Recently - недавно
 Recognize - распознавать, узнавать
@@ -217,10 +235,10 @@ Rectangular - прямоугольный
 Refresh - обновить
 Refusal - отказ
 Regard - уважение
-Warm regards - с теплыми пожеланиями
+Regard - уважение, отношение / warm regards - с теплыми пожеланиями
 Regret - сожалеть
 Relationships - отношения
-Relative - родственник, сравнительный 
+Relative - родственник, сравнительный
 Remind - напоминать
 Remind - напомни
 Reportedly - Сообщается
@@ -236,13 +254,14 @@ Revelations - откровения
 Revenge - месть
 Right - правильно
 Rise - подниматься
+
 Sad - грустный
 Salary - зарплата
 Savage - дикарь
 Scare - пугать
 Schedule - график, расписание
 Second-hand - подержанный
-Seems - кажется 
+Seems - кажется
 Semi - полу
 Send - посылать
 Separate - разделитель
@@ -259,11 +278,11 @@ Slice - ломтик
 Solid - твердый
 Solitude - одиночество
 Soon - скоро
-Source - источник 
+Source - источник
 Special - особый
 Spit - плевать
 Squash - раздавить
-Statement - высказывание, утверждение
+Statement - высказывание / утверждение
 Still - все еще
 Stripe - полоса
 Striped - полосатый
@@ -274,6 +293,7 @@ Surprised - удивленный
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать
+
 Teaspoon - чайная ложка
 Term - термин
 Thought - мысль
@@ -288,14 +308,21 @@ Triangle - треугольник
 Triangular - треугольный
 Trust - доверять
 Try out - попробуйте
+
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
 Unpredictable - непредсказуемый
 Upstairs - вверх по лестнице
+Upset - расстроенный 
+Useful - полезный
+Useless - бесполезный 
+
 Victim - жертва
 Violent - грубый
-Wanna | Want to - хотеть 
+Vocabulary - словарный запас
+
+Wanna | Want to - хотеть
 Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
 West - запад
