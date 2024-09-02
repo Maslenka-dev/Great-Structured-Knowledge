@@ -7,6 +7,7 @@ Advice - совет
 Ahead - впереди
 Alert - тревога
 Allow - позволять
+Alone - один
 Alternate - чередовать
 Although - несмотря на то что, хотя
 Amazing - удивительный
