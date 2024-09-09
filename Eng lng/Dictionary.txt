@@ -45,6 +45,8 @@ Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
 Calm - спокойный
+Caring - заботливый
+Creative - творческий
 Cannot - нельзя
 Certain - определенный
 Certainly - определенно, конечно
@@ -65,7 +67,7 @@ Currently - в настоящий момент
 Dazzle me - удиви меня
 Deadline - крайний срок
 Decide - решать
-Dedicated - посвященный
+Dedicated - вовлеченный
 Definitely - однозначно
 Deliver - доставлять
 Desk job - работа в офисе
@@ -132,6 +134,7 @@ Heat - жара
 Height - высота
 Hold - держать
 Honest - честный
+Dishonest - нечестный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
@@ -171,6 +174,7 @@ Melt - растопить
 Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
+Moody - угрюмый
 Modern - современный
 Neck - шея
 Network - сеть - любая компьютерная сеть
@@ -246,6 +250,7 @@ Scare - пугать
 Schedule - график, расписание
 Second-hand - подержанный
 Seems - кажется
+Selfish - эгоистичный
 Semi - полу
 Send - посылать
 Separate - разделитель
@@ -282,6 +287,7 @@ Term - термин
 Thought - мысль
 Through - через
 Thunder - гром
+Trusting - доверчивый
 Tiny - крошечный
 Top down - сверху вниз
 Tough - жесткий
