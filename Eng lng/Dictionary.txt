@@ -45,9 +45,8 @@ Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
 Calm - спокойный
-Caring - заботливый
-Creative - творческий
 Cannot - нельзя
+Caring - заботливый
 Certain - определенный
 Certainly - определенно, конечно
 Checked - клеточный
@@ -61,6 +60,7 @@ Consume - потреблять
 Contain - содержать
 Conversation - разговор
 Cover - покрытие
+Creative - творческий
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
@@ -80,6 +80,7 @@ Disable - отключить
 Disappear - пропадать
 Disappointed - разочарованный
 Disastrous - катастрофический
+Dishonest - нечестный
 Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
@@ -134,7 +135,6 @@ Heat - жара
 Height - высота
 Hold - держать
 Honest - честный
-Dishonest - нечестный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
@@ -174,8 +174,8 @@ Melt - растопить
 Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
-Moody - угрюмый
 Modern - современный
+Moody - угрюмый
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
@@ -287,7 +287,6 @@ Term - термин
 Thought - мысль
 Through - через
 Thunder - гром
-Trusting - доверчивый
 Tiny - крошечный
 Top down - сверху вниз
 Tough - жесткий
@@ -296,6 +295,7 @@ Trade - торговля
 Triangle - треугольник
 Triangular - треугольный
 Trust - доверять
+Trusting - доверчивый
 Try out - попробуйте
 Unfortunately - к сожалению
 Unity - единство
