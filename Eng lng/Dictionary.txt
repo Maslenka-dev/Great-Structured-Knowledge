@@ -203,6 +203,7 @@ Polka dot - в горошек
 Possible - возможно
 Pour - наливать
 Prediction - предсказание
+Predictable - предсказуемый
 Pressure - давление
 Print - печатать
 Probably - вероятно
