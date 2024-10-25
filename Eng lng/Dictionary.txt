@@ -7,7 +7,6 @@ Advice - совет
 Ahead - впереди
 Alert - тревога
 Allow - позволять
-Alone - один
 Alternate - чередовать
 Although - несмотря на то что, хотя
 Amazing - удивительный
@@ -29,7 +28,8 @@ Awake - проснуться
 Aware - осведомлен
 Bakery - перарня
 Bar - плитка
-Basic - основной
+Basic - основной.
+Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
 Below - ниже
@@ -46,9 +46,9 @@ Browse - просматривать
 By the time - к тому времени
 Calm - спокойный
 Cannot - нельзя
-Caring - заботливый
 Certain - определенный
 Certainly - определенно, конечно
+Chase - преследовать
 Checked - клеточный
 Circle - круг
 Collapse - крах
@@ -60,14 +60,14 @@ Consume - потреблять
 Contain - содержать
 Conversation - разговор
 Cover - покрытие
-Creative - творческий
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
+Data transmission - передача данных
 Dazzle me - удиви меня
 Deadline - крайний срок
 Decide - решать
-Dedicated - вовлеченный
+Dedicated - посвященный
 Definitely - однозначно
 Deliver - доставлять
 Desk job - работа в офисе
@@ -80,7 +80,6 @@ Disable - отключить
 Disappear - пропадать
 Disappointed - разочарованный
 Disastrous - катастрофический
-Dishonest - нечестный
 Distribute - распространять, распределять
 Doubts - сомнения
 Downstairs - вниз по лестнице
@@ -106,6 +105,8 @@ Exhausted - измученный
 Exists - существует
 Expect - кроме
 Explain - объяснять
+Explode - взрывать
+Explosion - взрыв
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -113,6 +114,7 @@ Fault - ошибка
 Feedback - обратная связь
 Female - женский
 Few - несколько
+Fiber - волокно
 Fill - заполнять
 Font - шрифт
 Forbidden - Запрещено
@@ -124,6 +126,7 @@ Furniture - мебель
 Gate - ворота
 Genuinely - искренне
 Give up - сдаваться
+Globe - земной шар
 Going to | Gonna - собираться
 Goofy - глупый
 Grand - великий, роскошный
@@ -175,7 +178,6 @@ Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
 Modern - современный
-Moody - угрюмый
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
@@ -187,6 +189,8 @@ Offer - предложение
 One more time - еще раз
 Opinion - мнение
 Opportunity - возможность
+Opposite - противоположный
+Optical fiber - оптоволокно
 Organized - организованный
 Origin - истоки/происхождение
 Outlet - выход
@@ -195,6 +199,7 @@ Part-time - неполная занятость
 Pass - сдать / пройти
 Pattern - узор/шаблон
 Pay rise - повышение зарплаты
+Payload - полезная нагрузка
 Peel - чистить
 Perhaps - возможно
 Pinch of salt - щепотка соли
@@ -203,7 +208,6 @@ Polka dot - в горошек
 Possible - возможно
 Pour - наливать
 Prediction - предсказание
-Predictable - предсказуемый
 Pressure - давление
 Print - печатать
 Probably - вероятно
@@ -251,7 +255,6 @@ Scare - пугать
 Schedule - график, расписание
 Second-hand - подержанный
 Seems - кажется
-Selfish - эгоистичный
 Semi - полу
 Send - посылать
 Separate - разделитель
@@ -265,6 +268,7 @@ Similar - похожи
 Sincerely - искренне
 Size - размер
 Slice - ломтик
+Sniff - нюхать
 Solid - твердый
 Solitude - одиночество
 Soon - скоро
@@ -296,7 +300,6 @@ Trade - торговля
 Triangle - треугольник
 Triangular - треугольный
 Trust - доверять
-Trusting - доверчивый
 Try out - попробуйте
 Unfortunately - к сожалению
 Unity - единство
@@ -306,12 +309,14 @@ Upset - расстроенный
 Upstairs - вверх по лестнице
 Useful - полезный
 Useless - бесполезный 
+Vehicle - транспортное средство
 Victim - жертва
 Violent - грубый
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
 Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
+Wealth - богатство
 West - запад
 What is that mean - что это значит
 Wherever - где бы
