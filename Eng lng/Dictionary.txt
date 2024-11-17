@@ -26,7 +26,6 @@ Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
-
 Bakery - перарня
 Bar - плитка
 Basic - основной.
@@ -45,14 +44,13 @@ Bounds - границы
 Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
-
 Calm - спокойный
 Cannot - нельзя
 Certain - определенный
 Certainly - определенно, конечно
 Chase - преследовать
-Cheers - за ваше здоровье
 Checked - клеточный
+Cheers - за ваше здоровье
 Circle - круг
 Collapse - крах
 Common - общий
@@ -66,7 +64,6 @@ Cover - покрытие
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
-
 Data transmission - передача данных
 Dazzle me - удиви меня
 Deadline - крайний срок
@@ -89,7 +86,6 @@ Doubts - сомнения
 Downstairs - вниз по лестнице
 Drip - Капать
 Duration - продолжительность
-
 Earning - заработок
 East - восток
 Emergency - чрезвычайная ситуация
@@ -109,11 +105,10 @@ Excited - возбужденный
 Exhausted - измученный
 Exists - существует
 Expect - кроме
+Expect - ожидать
 Explain - объяснять
 Explode - взрывать
 Explosion - взрыв
-Expect - ожидать
-
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -130,7 +125,6 @@ Framework - рамки
 Freak - чудак, фрик. Freaking - долбанный
 Funny - смешной, забавный
 Furniture - мебель
-
 Gate - ворота
 Genuinely - искренне
 Give up - сдаваться
@@ -140,7 +134,6 @@ Goofy - глупый
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
-
 Happy - счастливый
 Healthy - здоровый
 Heat - жара
@@ -150,7 +143,6 @@ Honest - честный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
-
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
 I second that - я поддерживаю это
@@ -169,19 +161,16 @@ Introducing - введение
 Invalid - неправильно
 Issues - вопросы
 It’s not right - это неправильно
-
 Kidnap - похищать
 Kind - тип
 Kinda - вроде
 Kingdom - царство
-
 Launch - запуск
 Less - меньше
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
-
 Mad - безумный
 Majestic - величественный
 Male - мужской, мужчина
@@ -191,16 +180,14 @@ Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
 Modern - современный
-
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
 Nuclear - ядерный
-
-Obviously - очевидно
 Obscene words - непристойные слова
+Obviously - очевидно
 Offer - предложение
 One more time - еще раз
 Opinion - мнение
@@ -210,7 +197,6 @@ Optical fiber - оптоволокно
 Organized - организованный
 Origin - истоки/происхождение
 Outlet - выход
-
 Pale - бледный
 Part-time - неполная занятость
 Pass - сдать / пройти
@@ -231,9 +217,7 @@ Probably - вероятно
 Prohibition - запрет
 Promise - обещать
 Puppy - щенок
-
 Quote - цитата
-
 Raise - поднимать
 Rather - скорее
 Realize - осознавать
@@ -268,7 +252,6 @@ Revelations - откровения
 Revenge - месть
 Right - правильно
 Rise - подниматься
-
 Sad - грустный
 Salary - зарплата
 Savage - дикарь
@@ -308,13 +291,12 @@ Surprised - удивленный
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать 
-
 Teaspoon - чайная ложка
 Term - термин
+There we go - вот так вот
 Thought - мысль
 Through - через
 Thunder - гром
-There we go - вот так вот
 Tiny - крошечный
 Top down - сверху вниз
 Tough - жесткий
@@ -324,7 +306,6 @@ Triangle - треугольник
 Triangular - треугольный
 Trust - доверять
 Try out - попробуйте
-
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
@@ -333,18 +314,16 @@ Upset - расстроенный
 Upstairs - вверх по лестнице
 Useful - полезный
 Useless - бесполезный
-
 Vehicle - транспортное средство
 Victim - жертва
 Violent - грубый
 Vocabulary - словарный запас
-
 Wanna | Want to - хотеть
 Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
 Wealth - богатство
-West - запад
 Weird - странный
+West - запад
 What is that mean - что это значит
 Wherever - где бы
 Width - ширина
