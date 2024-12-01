@@ -26,7 +26,7 @@ Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
-Bakery - перарня
+Bakery - пекарня
 Bar - плитка
 Basic - основной.
 Bastard - ублюдок
@@ -94,6 +94,7 @@ Enough - достаточно
 Entertainment - развлечение
 Environment - окружающая среда, окружение
 Equal - равно
+Equipment - оборудование 
 Especially - особенно
 Essentially - существенно, значительно
 Establish - установить
@@ -107,7 +108,7 @@ Exists - существует
 Expect - кроме
 Expect - ожидать
 Explain - объяснять
-Explode - взрывать
+Explode - взорвать
 Explosion - взрыв
 Falcon - сокол
 Fame - слава
@@ -167,6 +168,7 @@ Kinda - вроде
 Kingdom - царство
 Launch - запуск
 Less - меньше
+Lifestyle - образ жизни
 Literally - буквально
 Litre - литр
 Loaf - буханка
@@ -180,6 +182,7 @@ Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
 Modern - современный
+Necessary - необходимо
 Neck - шея
 Network - сеть - любая компьютерная сеть
 Not bad - неплохо
@@ -304,6 +307,7 @@ Towel - полотенце
 Trade - торговля
 Triangle - треугольник
 Triangular - треугольный
+Trick - трюк
 Trust - доверять
 Try out - попробуйте
 Unfortunately - к сожалению
