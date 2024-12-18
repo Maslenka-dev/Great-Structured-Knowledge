@@ -1,0 +1,152 @@
+2 задание
+
+	отрицание - not()
+	конъюнкция - and
+	дизъюнкция - or
+	импликация - <=
+	эквиваленция - ==
+
+	print ('x y z w')
+	for x in 0,1:
+	    for y in 0,1:
+	        for z in 0,1:
+	            for w in 0,1:
+	                if (x or (not y)) and (not(x == z) and (not w)) == 1:
+	                    print(x, y, z, w)
+
+    x y z w
+	0 0 1 0
+	1 0 0 0
+	1 1 0 0
+ 	
+
+
+	print ('x y z w')
+	for x in 0,1:
+	    for y in 0,1:
+	        for z in 0,1:
+	            for w in 0,1:
+	                if (((x and w) or (w and z)) == ((z <= y) and (y <= x))) == 1:
+	                    print(x, y, z, w)
+
+	x y z w
+	0 0 1 0
+	0 1 0 0
+	0 1 0 1
+	0 1 1 0
+	1 0 0 1
+	1 0 1 0
+	1 1 0 1
+	1 1 1 1   
+
+
+
+	print ('x y z w')
+	for x in 0,1:
+	    for y in 0,1:
+	        for z in 0,1:
+	            for w in 0,1:
+	                if ((y <= w) == (x <= (not z)) and (x or w)) == 1:
+	                    print(x, y, z, w)      
+
+	print ('x y z w')
+	for x in 0,1:
+	    for y in 0,1:
+	        for z in 0,1:
+	            for w in 0,1:
+	                if ((y <= w) == (x <= (not z)) and (x or w)) == 0:
+	                    print(x, y, z, w)          
+    
+	x y z w     0
+	0 0 0 0
+	0 0 1 0
+	0 1 0 0
+	0 1 1 0 
+	1 0 1 0
+	1 0 1 1
+	1 1 0 0
+	1 1 1 1
+
+	x y z w     1
+	0 0 0 1
+	0 0 1 1
+	0 1 0 1
+	0 1 1 1
+	1 0 0 0
+	1 0 0 1
+	1 1 0 1
+	1 1 1 0
+
+23 задание
+	
+	Условие: 3 - 15 - 50. траектория не содержит 55
+
+	def f(x, y):
+    if x > y or x == 33:
+        return 0
+    if x == y:
+        return 1
+    else:
+        return f(x + 1, y) + f(x * 2, y) + f(x * 3, y)
+	print(f(3, 15) * f(15, 50))
+
+	Отв: 121
+
+	// - оператор целочисленного деления
+
+13 задание(сложный вариант)
+
+	import itertools
+	count = 0
+	s = itertools.product([0, 1], repeat = 20)
+	for i in s:
+	    if (5 + sum(i)) % 5 != 0:
+	        count += 1
+	print(count)
+
+	количество единиц в двоичной записи IP-адреса не кратно 5
+
+	Использование функции itertools.product() с параметром repeat=20 для списка [0, 1] создаст все возможные комбинации длиной 20, состоящие из элементов 0 и 1. Это эквивалентно генерации всех двоичных чисел от 00000000000000000000 до 11111111111111111111.
+
+	sum() - встроенная функция, предназначенная для вычисления суммы всех элементов в итерируемом объекте, таком как список или кортеж.
+
+
+
+
+	import itertools
+	count = 0
+	s = itertools.product([0, 1], repeat = 13)
+	for i in s:
+	    if i[12] == 1 and i[11] == 1:
+	        if(10 + sum(i)) % 3 == 0:
+	            count += 1
+	print(count)
+
+	количество единиц в двоичной записи IP-адреса кратно 3, а сама двоичная запись оканчивается на 11
+
+16.2
+
+	Условие: F(1) = 1 | F(2) = 1 | если n > 2, то F(n-1) * n - 2 * F(n-2)
+
+	def F(n):
+    if n == 1:
+        return 1
+    if n == 2:
+        return 1
+    if n > 2:
+        return F(n-1) * n - 2 * F(n-2)
+	print(F(6))
+
+
+
+
+	Условие: F(n) = 1 если n = 1 | F(n) = n + F(n - 1) если n нечетно | F(n) = 2 * F(n - 2) если n > 1 и n нечетно
+
+	def F(n):
+    if n == 1:
+        return 1
+    if n % 2 == 0:
+        return n + F(n - 1)
+    if n > 1 and n % 2 != 0:
+        return 2 * F(n - 2)
+	print(F(26)) 
