@@ -4,6 +4,7 @@ Absolutely - абсолютно
 Actually - фактически
 Admit - признавать
 Advice - совет
+Affect - влиять
 Ahead - впереди
 Alert - тревога
 Allow - позволять
@@ -28,7 +29,7 @@ Awake - проснуться
 Aware - осведомлен
 Bakery - пекарня
 Bar - плитка
-Basic - основной.
+Basic - основной
 Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
@@ -265,6 +266,7 @@ Seems - кажется
 Semi - полу
 Send - посылать
 Separate - разделитель
+Sequence - последовательность
 Share - делиться
 Share - делиться
 Sharp - острый
