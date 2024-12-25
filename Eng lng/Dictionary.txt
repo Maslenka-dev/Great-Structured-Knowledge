@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ability - способность
 Able - способный
 Absolutely - абсолютно
@@ -29,7 +50,7 @@ Awake - проснуться
 Aware - осведомлен
 Bakery - пекарня
 Bar - плитка
-Basic - основной
+Basic - основной.
 Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
@@ -243,6 +264,7 @@ Relationships - отношения
 Relative - родственник, сравнительный
 Remind - напоминать
 Remind - напомни
+Reply - отвечать
 Reportedly - Сообщается
 Represent - представлять
 Request - запрос
