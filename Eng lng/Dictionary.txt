@@ -36,6 +36,7 @@ Being - существование
 Below - ниже
 Besides - кроме того
 Bisect - делить пополам
+Blade - нож, лезвие
 Blame - вина
 Blind - слепой
 Bored - скучающий
@@ -217,9 +218,11 @@ Pour - наливать
 Prediction - предсказание
 Pressure - давление
 Print - печатать
+Private insurance - частное страхование
 Probably - вероятно
 Prohibition - запрет
 Promise - обещать
+Public insurance - государственное страхование
 Puppy - щенок
 Quote - цитата
 Raise - поднимать
@@ -297,6 +300,7 @@ Surprised - удивленный
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать 
+Switchblade - складной нож
 Teaspoon - чайная ложка
 Term - термин
 There we go - вот так вот
