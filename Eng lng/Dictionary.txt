@@ -29,7 +29,7 @@ Awake - проснуться
 Aware - осведомлен
 Bakery - пекарня
 Bar - плитка
-Basic - основной.
+Basic - основной
 Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
@@ -66,6 +66,7 @@ Cover - покрытие
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
+Dash - тире, дефис
 Data transmission - передача данных
 Dazzle me - удиви меня
 Deadline - крайний срок
@@ -84,6 +85,7 @@ Disappear - пропадать
 Disappointed - разочарованный
 Disastrous - катастрофический
 Distribute - распространять, распределять
+Diverge - отличаться, не совпадать
 Doubts - сомнения
 Downstairs - вниз по лестнице
 Drip - Капать
@@ -153,6 +155,7 @@ Immediately - немедленно
 Impact - влияние
 Impossible - невозможно
 Incredible - невероятно
+Indeed - действительно
 Initialize - инициализировать
 Initially - первоначально
 Inspection - анализ
@@ -212,6 +215,7 @@ Peel - чистить
 Perhaps - возможно
 Pinch of salt - щепотка соли
 Pleasure - удовольствие
+Pocket - карман
 Polka dot - в горошек
 Possible - возможно
 Pour - наливать
@@ -291,6 +295,7 @@ Spit - плевать
 Squash - раздавить
 Statement - высказывание / утверждение
 Still - все еще
+Storage - хранилище
 Stripe - полоса
 Striped - полосатый
 Sub - под, почти
