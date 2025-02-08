@@ -48,6 +48,7 @@ Browse - просматривать
 By the time - к тому времени
 Calm - спокойный
 Cannot - нельзя
+Carefully - аккуратно
 Certain - определенный
 Certainly - определенно, конечно
 Chase - преследовать
@@ -74,6 +75,7 @@ Decide - решать
 Dedicated - посвященный
 Definitely - однозначно
 Deliver - доставлять
+Destroy - разрушать
 Desk job - работа в офисе
 Despite - несмотря на
 Destination - место назначения
@@ -154,6 +156,7 @@ I second that - я поддерживаю это
 Immediately - немедленно
 Impact - влияние
 Impossible - невозможно
+Improve - улучшать
 Incredible - невероятно
 Indeed - действительно
 Initialize - инициализировать
@@ -217,6 +220,7 @@ Pinch of salt - щепотка соли
 Pleasure - удовольствие
 Pocket - карман
 Polka dot - в горошек
+Pollution - загрязнение
 Possible - возможно
 Pour - наливать
 Prediction - предсказание
@@ -251,7 +255,8 @@ Relative - родственник, сравнительный
 Remind - напоминать
 Remind - напомни
 Reply - отвечать
-Reportedly - Сообщается
+Reportedly - cообщается
+Replace - заменять
 Represent - представлять
 Request - запрос
 Request - запрос
@@ -335,6 +340,7 @@ Victim - жертва
 Violent - грубый
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
+Waste - тратить
 Warning - предупреждение
 We are of one mind - мы придерживаемся одного мнения
 Wealth - богатство
