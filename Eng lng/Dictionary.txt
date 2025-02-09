@@ -259,7 +259,6 @@ Reportedly - cообщается
 Replace - заменять
 Represent - представлять
 Request - запрос
-Request - запрос
 Require - требовать. Requirement - требование
 Resolution - разрешение
 Resolve - решать
