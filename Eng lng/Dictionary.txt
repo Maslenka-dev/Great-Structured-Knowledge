@@ -139,6 +139,7 @@ Give up - сдаваться
 Globe - земной шар
 Going to | Gonna - собираться
 Goofy - глупый
+Goverment - правительство
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
@@ -208,6 +209,7 @@ Opposite - противоположный
 Optical fiber - оптоволокно
 Organized - организованный
 Origin - истоки/происхождение
+Order - приказ
 Outlet - выход
 Pale - бледный
 Part-time - неполная занятость
