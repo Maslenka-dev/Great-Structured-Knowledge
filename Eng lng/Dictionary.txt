@@ -139,7 +139,8 @@ Give up - сдаваться
 Globe - земной шар
 Going to | Gonna - собираться
 Goofy - глупый
-Goverment - правительство
+Govern - править
+Government - правительство
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
@@ -172,6 +173,7 @@ Introducing - введение
 Invalid - неправильно
 Issues - вопросы
 It’s not right - это неправильно
+Jealousy - ревность
 Kidnap - похищать
 Kind - тип
 Kinda - вроде
