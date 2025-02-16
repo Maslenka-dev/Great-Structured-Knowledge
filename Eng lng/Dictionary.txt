@@ -49,6 +49,7 @@ By the time - к тому времени
 Calm - спокойный
 Cannot - нельзя
 Carefully - аккуратно
+Cause - причина
 Certain - определенный
 Certainly - определенно, конечно
 Chase - преследовать
@@ -166,6 +167,7 @@ Initialize - инициализировать
 Initially - первоначально
 Inspection - анализ
 Intention - намерение
+Interest - интерес
 Intermediate - промежуточный
 International - международный
 Introduce - вводить	 
@@ -190,6 +192,7 @@ Majestic - величественный
 Male - мужской, мужчина
 Manage - управлять
 Melt - растопить
+Mean - озночать, значить
 Memorize - запомнить, выучить наизусть
 Might - вероятно
 Mindset - образ мышления
