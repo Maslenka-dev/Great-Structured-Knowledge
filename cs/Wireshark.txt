@@ -13,3 +13,29 @@
 	VPN в Wireshark:
 
 		VPN заменяет ip-адрес роутера, с которого осуществляется выход в интернет на другой ip с шифровкой трафика при помощи ESP протокола. Например ip 5.16.127.163 будет заменен на 185.108.107.120.
+
+Фильтры ip:
+
+	- ip.version
+
+	- ip.hdr_len
+
+	- ip.dsfield
+
+	- ip.len
+
+	- ip.id
+
+	- ip.flags
+
+	- ip.frag_offset
+
+	- ip.ttl
+
+	- ip.proto
+
+	- ip.checksum
+
+	- ip.src
+
+	- ip.dst
