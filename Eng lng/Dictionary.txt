@@ -14,6 +14,7 @@ Amazing - удивительный
 Among - среди
 Amount - сумма
 Announce - объявлять
+Angle - угол
 Anyway - в любом случае
 Appear - приближаться/появляться
 Apologize - извиняться
@@ -47,6 +48,7 @@ Bounds - границы
 Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
+By the way - между прочим
 Calm - спокойный
 Cannot - нельзя
 Carefully - аккуратно
@@ -299,6 +301,7 @@ Similar - похожи
 Sincerely - искренне
 Size - размер
 Slice - ломтик
+Slay - убивать
 Sniff - нюхать
 Solid - твердый
 Solitude - одиночество
