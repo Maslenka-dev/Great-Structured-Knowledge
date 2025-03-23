@@ -131,6 +131,7 @@ Few - несколько
 Fiber - волокно
 Fill - заполнять
 Font - шрифт
+Founder - основател
 Forbidden - Запрещено
 Fortunately - к счастью
 Framework - рамки
