@@ -36,7 +36,7 @@ dig - позволяет выполнять различные запросы к
 
 		CNAME - создает псевдоним для другого домена, позволяя одному имени наследовать настройки другого.
 
-	- Мой варик записи (сразу все): dig google.com A & dig google.com MX & dig google.com AAAA & dig google.com CNAME
+	- Мой варик записи (сразу все): dig google.com A & dig google.com MX & dig google.com AAAA & dig google.com CNAME.
 
 
 
