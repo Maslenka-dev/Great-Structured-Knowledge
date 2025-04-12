@@ -34,6 +34,9 @@
 
 	- ip.proto
 
+		ip.proto == 6 - протокол TCP.
+		ip.proto == 17 - протокол UDP.
+
 	- ip.checksum
 
 	- ip.src
