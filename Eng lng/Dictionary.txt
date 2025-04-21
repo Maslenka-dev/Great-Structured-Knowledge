@@ -2,6 +2,7 @@ Ability - способность
 Able - способный
 Absolutely - абсолютно
 Actually - фактически
+Act your age - веди себя в соответствии со своим возрастом
 Admit - признавать
 Advice - совет
 Affect - влиять
@@ -17,6 +18,7 @@ Announce - объявлять
 Angle - угол
 Anyway - в любом случае
 Appear - приближаться/появляться
+Apply - применять
 Apologize - извиняться
 Approach - приближение
 Area - площадь
@@ -158,6 +160,7 @@ Honest - честный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
+Humble - скромный
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
 I second that - я поддерживаю это
