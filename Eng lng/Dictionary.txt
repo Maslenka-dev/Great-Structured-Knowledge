@@ -23,6 +23,7 @@ Apologize - извиняться
 Approach - приближение
 Area - площадь
 Arrive - прибывать
+Argue - спорить
 As soon - как только
 Assassin - убийца
 Asshole - мудак
@@ -297,6 +298,7 @@ Separate - разделитель
 Sequence - последовательность
 Share - делиться
 Sharp - острый
+Shawty - коротышка
 Shemale - транссексуал
 Shift - смена
 Show - показывать
