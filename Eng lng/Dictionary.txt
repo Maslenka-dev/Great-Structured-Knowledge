@@ -5,6 +5,7 @@ Actually - фактически
 Act your age - веди себя в соответствии со своим возрастом
 Admit - признавать
 Advice - совет
+Advantage - преимущество
 Affect - влиять
 Ahead - впереди
 Alert - тревога
@@ -185,6 +186,7 @@ Issues - вопросы
 It’s not right - это неправильно
 Jealousy - ревность
 Kidnap - похищать
+Keystroke - нажате клавиши.
 Kind - тип
 Kinda - вроде
 Kingdom - царство
