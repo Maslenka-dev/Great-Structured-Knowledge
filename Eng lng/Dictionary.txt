@@ -186,7 +186,7 @@ Issues - вопросы
 It’s not right - это неправильно
 Jealousy - ревность
 Kidnap - похищать
-Keystroke - нажате клавиши.
+Keystroke - нажате клавиши
 Kind - тип
 Kinda - вроде
 Kingdom - царство
@@ -246,6 +246,7 @@ Pressure - давление
 Print - печатать
 Private insurance - частное страхование
 Probably - вероятно
+Prompt - подсказка, командная строка.
 Prohibition - запрет
 Promise - обещать
 Public insurance - государственное страхование
