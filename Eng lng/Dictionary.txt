@@ -176,6 +176,7 @@ Initialize - инициализировать
 Initially - первоначально
 Inspection - анализ
 Intention - намерение
+Interact - взаимодействовать
 Interest - интерес
 Intermediate - промежуточный
 International - международный
@@ -339,6 +340,7 @@ Thought - мысль
 Through - через
 Thunder - гром
 Tiny - крошечный
+Till - пока
 Top down - сверху вниз
 Tough - жесткий
 Towel - полотенце
@@ -351,6 +353,7 @@ Try out - попробуйте
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
+Untill - до сих пор
 Unpredictable - непредсказуемый
 Upset - расстроенный
 Upstairs - вверх по лестнице
