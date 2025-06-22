@@ -121,6 +121,7 @@ Excited - возбужденный
 Exhausted - измученный
 Exists - существует
 Expect - кроме
+Expression - выражение
 Expect - ожидать
 Explain - объяснять
 Explode - взорвать
