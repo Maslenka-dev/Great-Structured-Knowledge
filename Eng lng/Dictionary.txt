@@ -193,6 +193,7 @@ Kind - тип
 Kinda - вроде
 Kingdom - царство
 Launch - запуск
+Layout - расположение
 Less - меньше
 Lifestyle - образ жизни
 Literally - буквально
@@ -245,6 +246,7 @@ Possible - возможно
 Pour - наливать
 Prediction - предсказание
 Pressure - давление
+Previous - предыдущий
 Print - печатать
 Private insurance - частное страхование
 Probably - вероятно
