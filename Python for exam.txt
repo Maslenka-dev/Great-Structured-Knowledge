@@ -581,6 +581,32 @@
 			    return DEL(x, A) or (B <= (not(DEL(x, 22))))
 			print(max([A for A in range(1, 1000) if all(f(x, A) == 1 for x in range(1, 1000))]))
 
+		Условие: Укажите наименьшее целое значение A, для которого формула (ДЕЛ(144,x)→¬ДЕЛ(x,y))∨ (x+y>100)∨(A−x>y) тождественно истинна при любых натураль ных значениях переменных x и y.
+
+			def DEL(x, y): return x % y == 0
+			def f(x, y, A): return (DEL(144, x) <= (not(DEL(x, y)))) or (x + y > 100) or (A - x > y)
+			print(min([A for A in range(0, 200) if all(f(x, y, A) == 1 for x in range(1, 200) for y in range(1, 200))]))
+
+		Условие: Обозначим через ТРЕУГ(n,m,k) утверждение «существует невырожденный треугольник с длинами сторон n, m, k». Для какого наибольшего натурального числа A формула ((ТРЕУГ(x,10,20) → (¬(МАКС(x, 8) > 24))) = ¬(ТРЕУГ(3,A,x))) тождественно истинна (то есть принимает значение 1) при любом натуральном значении переменной х? 
+
+			def TRIANGLE(n, m, k): 
+			    if n + m > k and n + k > m and k + m > n: return True
+			    else: return False
+			def f(x, A): return ((TRIANGLE(x, 10, 20) <= (not(max(x, 8) > 24))) == (not(TRIANGLE(3, A, x))))
+			print(max([A for A in range(1, 2000) if all(f(x, A) == 1 for x in range(1, 2000))]))
+
+			или (более короткая запись функции TRIANGLE)
+
+			def TRIANGLE(n, m, k): return True if n + m > k and n + k > m and k + m > n else False
+			def f(x, A): return ((TRIANGLE(x, 10, 20) <= (not(max(x, 8) > 24))) == (not(TRIANGLE(3, A, x))))
+			print(max([A for A in range(1, 2000) if all(f(x, A) == 1 for x in range(1, 2000))]))
+
+		Условие: Обозначим через ТРЕУГ(n,m,k) утверждение «существует треугольник с длинами сторон n, m, k». Для какого наибольшего натурального числа A формула ¬((ТРЕУГ (х, 11, 16) ≡ (¬(МАКС(x, 5) > 10))) ∧ ТРЕУГ(4, A, x)) тождественно истинна (то есть принимает значение 1) при любом натуральном значении переменной х? 
+
+			def triangle(n, m, k): return True if n + m > k and n + k > m and k + m > n else False
+			def f(x, A): return (not((triangle(x, 11, 16) == ((not(max(x, 5) > 10)))) and triangle(4, A, x)))
+			print(max([A for A in range(1, 1000) if all(f(x, A) == 1 for x in range(1, 1000))]))
+ 
 19, 20, 21
 
 	!!Строчка [s for s in range(1, 57) if f(s, 2)] - эта конструкция называется "генератор". Это способ в одну строку создать список (массив), наполненный значениями. Двоеточия нет именно потому, что это не цикл for, а генератор.
