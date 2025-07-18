@@ -176,6 +176,7 @@ Indeed - действительно
 Initialize - инициализировать
 Initially - первоначально
 Inspection - анализ
+Insert - вставлять
 Intention - намерение
 Interact - взаимодействовать
 Interest - интерес
