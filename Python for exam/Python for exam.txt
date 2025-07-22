@@ -750,3 +750,25 @@
 		    else: return any(moves)
 
 		print([s for s in range(20, 100) if not f(s, 1) and f(s, 2)]) // 60
+
+
+Перевод числа в 12-ую систему счисления:
+	
+	def c(n):
+	    alph = '0123456789AB'
+	    res = ''
+	    while n > 0:
+	        res = str(alph[n % 12]) + res
+	        n //= 12
+	    if res[0] == '0': res = res[1::]
+	    return res
+
+Перевод числа в 3-ую систему счисления:
+
+	def c(n):
+		res = ''
+		while n > 0:
+			res += str(n % 3)
+			n //= 3
+		res = res[::-1]	
+		return res
