@@ -52,7 +52,7 @@ Bounds - границы
 Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
-By the way - между прочим
+By the way - между прочим, кстати
 Calm - спокойный
 Cannot - нельзя
 Carefully - аккуратно
