@@ -185,7 +185,7 @@ International - международный
 Introduce - вводить	 
 Introducing - введение
 Invalid - неправильно
-Issues - вопросы
+Issue - вопрос
 It’s not right - это неправильно
 Jealousy - ревность
 Kidnap - похищать
@@ -213,7 +213,7 @@ Mindset - образ мышления
 Modern - современный
 Necessary - необходимо
 Neck - шея
-Network - сеть - любая компьютерная сеть
+Network - сеть, любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
 Notify - уведомлять
@@ -277,7 +277,6 @@ Regret - сожалеть
 Relationships - отношения
 Relative - родственник, сравнительный
 Remind - напоминать
-Remind - напомни
 Reply - отвечать
 Reportedly - cообщается
 Replace - заменять
@@ -324,7 +323,7 @@ Source - источник
 Special - особый
 Spit - плевать
 Squash - раздавить
-Statement - высказывание / утверждение
+Statement - высказывание, утверждение
 Still - все еще
 Storage - хранилище
 Stripe - полоса
