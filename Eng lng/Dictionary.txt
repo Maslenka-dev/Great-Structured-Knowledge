@@ -43,7 +43,10 @@ Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
 Below - ниже
+Belong - принадлежать
 Besides - кроме того
+Betray - предавать
+Behold - созерцать
 Bisect - делить пополам
 Blade - нож, лезвие
 Blame - вина
@@ -62,9 +65,11 @@ Calm - спокойный
 Cannot - нельзя
 Carefully - аккуратно
 Cause - причина
+Call of duty - чувство долга
 Certain - определенный
 Certainly - определенно, конечно
 Chase - преследовать
+Charge - заряжать
 Checked - клеточный
 Cheers - за ваше здоровье
 Circle - круг
@@ -72,6 +77,7 @@ Collapse - крах
 Common - общий
 Communication - общение
 Conclusion - вывод
+Conceal - скрывать
 Condition - состояние
 Consume - потреблять
 Contain - содержать
@@ -82,6 +88,7 @@ Cover - покрытие
 Crowded - переполненный
 Current - текущий
 Currently - в настоящий момент
+Curse - проклятье
 Dash - тире, дефис
 Data transmission - передача данных
 Dazzle me - удиви меня
@@ -93,6 +100,7 @@ Deliver - доставлять
 Destroy - разрушать
 Desk job - работа в офисе
 Despite - несмотря на
+Desperate - отчаянный
 Destination - место назначения
 Destiny - судьба
 Different way - по другому
@@ -103,7 +111,7 @@ Disappointed - разочарованный
 Disastrous - катастрофический
 Distribute - распространять, распределять
 Diverge - отличаться, не совпадать
-Doubts - сомнения
+Doubt - сомнение
 Downstairs - вниз по лестнице
 Drip - Капать
 Drive - диск, накопитель
@@ -140,13 +148,17 @@ Fault - ошибка
 Feedback - обратная связь
 Female - женский
 Few - несколько
+Fellas - парни
 Fiber - волокно
 Fill - заполнять
 Font - шрифт
 Founder - основател
 Forbidden - Запрещено
 Fortunately - к счастью
+Forget - забывать
+Follow the schedule - следовать графику
 Framework - рамки
+Fragile - хрупкий
 Freak - чудак, фрик. Freaking - долбанный
 Frustration - разочарование
 Funny - смешной, забавный
@@ -162,9 +174,12 @@ Government - правительство
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
+Gentle - нежный 
 Happy - счастливый
+Hand in hand - рука об руку
 Healthy - здоровый
 Heat - жара
+Hesitaie - колебаться
 Height - высота
 Hold - держать
 Honest - честный
@@ -217,8 +232,10 @@ Manage - управлять
 Melt - растопить
 Mean - озночать, значить
 Memorize - запомнить, выучить наизусть
+Memory - память
 Might - вероятно
 Mindset - образ мышления
+Minor - незначительный 
 Modern - современный
 Necessary - необходимо
 Neck - шея
@@ -248,6 +265,7 @@ Payload - полезная нагрузка
 Peel - чистить
 Perhaps - возможно
 Pinch of salt - щепотка соли
+Pigtails - косички
 Pleasure - удовольствие
 Pocket - карман
 Polka dot - в горошек
@@ -286,6 +304,7 @@ Regret - сожалеть
 Relationships - отношения
 Relative - родственник, сравнительный
 Remind - напоминать
+Remember - помнить
 Reply - отвечать
 Reportedly - cообщается
 Replace - заменять
@@ -301,6 +320,7 @@ Revenge - месть
 Right - правильно
 Rise - подниматься
 Rolling - катающийся
+Rope - веревка
 Rude - грубый
 Sad - грустный
 Salary - зарплата
@@ -314,6 +334,7 @@ Semi - полу
 Send - посылать
 Separate - разделитель
 Sequence - последовательность
+Serve - обслуживать
 Share - делиться
 Sharp - острый
 Shawty - коротышка
@@ -330,6 +351,7 @@ Solid - твердый
 Solitude - одиночество
 Soon - скоро
 Source - источник
+Sorcery - колдовство
 Special - особый
 Spit - плевать
 Squash - раздавить
@@ -342,28 +364,37 @@ Stranger - незнакомец
 Sub - под, почти
 Suddenly - внезапно
 Sure - конечно
+Surround - окружать
 Surprised - удивленный
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать 
 Switchblade - складной нож
+Skull - череп
 Teaspoon - чайная ложка
 Term - термин
+Tears - слезы
+Tendency - тенденция
 There we go - вот так вот
 Thought - мысль
 Through - через
+Throw - бросать
 Thunder - гром
 Tiny - крошечный
 Till - пока
 Top down - сверху вниз
 Tough - жесткий
 Towel - полотенце
+Torture - пытка
 Trade - торговля
+Traitor - предатель
 Triangle - треугольник
 Triangular - треугольный
 Trick - трюк
+Tribe - племя
 Trust - доверять
 Try out - попробуйте
+Treason - измена
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
@@ -386,6 +417,7 @@ Weird - странный
 West - запад
 What is that mean - что это значит
 Wherever - где бы
+Whole - весь
 Width - ширина
 Wise - мудрый
 Wish - желаю
