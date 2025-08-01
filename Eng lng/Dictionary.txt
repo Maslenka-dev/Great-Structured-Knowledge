@@ -29,11 +29,13 @@ Argue - спорить
 As soon - как только
 Assassin - убийца
 Asshole - мудак
+Ashore - на берег
 Attempt - попытка
 Attention - внимание
 Available - доступно
 Awake - проснуться
 Aware - осведомлен
+Awkward - неловко
 Bakery - пекарня
 Bar - плитка
 Basic - основной
@@ -46,7 +48,9 @@ Bisect - делить пополам
 Blade - нож, лезвие
 Blame - вина
 Blind - слепой
+Bless - благословлять
 Bored - скучающий
+Boring - скучный
 Bottle - бутылка
 Bottom - дно, низ, внизу
 Bounds - границы
@@ -72,6 +76,8 @@ Condition - состояние
 Consume - потреблять
 Contain - содержать
 Conversation - разговор
+Confusion - путаница
+Courage - мужество
 Cover - покрытие
 Crowded - переполненный
 Current - текущий
@@ -142,6 +148,7 @@ Forbidden - Запрещено
 Fortunately - к счастью
 Framework - рамки
 Freak - чудак, фрик. Freaking - долбанный
+Frustration - разочарование
 Funny - смешной, забавный
 Furniture - мебель
 Gate - ворота
@@ -202,6 +209,7 @@ Literally - буквально
 Litre - литр
 Loaf - буханка
 Lonely - одинокий
+Lovely - прекрасный
 Mad - безумный
 Majestic - величественный
 Male - мужской, мужчина
@@ -293,6 +301,7 @@ Revenge - месть
 Right - правильно
 Rise - подниматься
 Rolling - катающийся
+Rude - грубый
 Sad - грустный
 Salary - зарплата
 Salty - соленый 
@@ -329,6 +338,7 @@ Still - все еще
 Storage - хранилище
 Stripe - полоса
 Striped - полосатый
+Stranger - незнакомец
 Sub - под, почти
 Suddenly - внезапно
 Sure - конечно
