@@ -26,6 +26,7 @@ Approach - приближение
 Area - площадь
 Arrive - прибывать
 Argue - спорить
+Arrow - стрела
 As soon - как только
 Assassin - убийца
 Asshole - мудак
@@ -194,6 +195,7 @@ Immediately - немедленно
 Impact - влияние
 Impossible - невозможно
 Improve - улучшать
+Impressive - впечатляющий
 Incredible - невероятно
 Indeed - действительно
 Initialize - инициализировать
@@ -226,6 +228,7 @@ Loaf - буханка
 Lonely - одинокий
 Lovely - прекрасный
 Mad - безумный
+Mutually - взаимно
 Majestic - величественный
 Male - мужской, мужчина
 Manage - управлять
@@ -264,6 +267,7 @@ Pay rise - повышение зарплаты
 Payload - полезная нагрузка
 Peel - чистить
 Perhaps - возможно
+Perform - выполнять
 Pinch of salt - щепотка соли
 Pigtails - косички
 Pleasure - удовольствие
@@ -328,6 +332,7 @@ Salty - соленый
 Savage - дикарь
 Scare - пугать
 Schedule - график, расписание
+Scheme - схема
 Second-hand - подержанный
 Seems - кажется
 Semi - полу
@@ -372,7 +377,7 @@ Switch - переключатель, переключать
 Switchblade - складной нож
 Skull - череп
 Teaspoon - чайная ложка
-Term - термин
+Term - срок, термин
 Tears - слезы
 Tendency - тенденция
 There we go - вот так вот
@@ -425,16 +430,12 @@ Wooden - деревянный
 Woollen - шерстяной
 Worry - беспокоиться
 Wrong - неправильно
+Wrist - запястье
 Generally
-Perform
+
 Circuit
 Accomodate
-Scheme
-Term
 Therefore
 Refers
 Respectively
-Mutually
-Represent
-Numerals
-Arrow
+
