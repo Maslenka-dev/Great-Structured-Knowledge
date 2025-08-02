@@ -44,6 +44,7 @@ Bastard - ублюдок
 Beat - взбить/бить
 Being - существование
 Below - ниже
+Believe - верить
 Belong - принадлежать
 Besides - кроме того
 Betray - предавать
@@ -316,6 +317,7 @@ Represent - представлять
 Request - запрос
 Require - требовать. Requirement - требование
 Resolution - разрешение
+Respect - уважать
 Resolve - решать
 Response - ответ
 Responsible - ответственный
@@ -431,11 +433,3 @@ Woollen - шерстяной
 Worry - беспокоиться
 Wrong - неправильно
 Wrist - запястье
-Generally
-
-Circuit
-Accomodate
-Therefore
-Refers
-Respectively
-
