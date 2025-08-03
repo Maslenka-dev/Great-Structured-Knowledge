@@ -1,12 +1,12 @@
 Ability - способность
 Able - способный
 Absolutely - абсолютно
-Actually - фактически
-Act your age - веди себя в соответствии со своим возрастом
 Accident - несчастный случай
+Act your age - веди себя в соответствии со своим возрастом
+Actually - фактически
 Admit - признавать
-Advice - совет
 Advantage - преимущество
+Advice - совет
 Affect - влиять
 Ahead - впереди
 Alert - тревога
@@ -16,23 +16,23 @@ Although - несмотря на то что, хотя
 Amazing - удивительный
 Among - среди
 Amount - сумма
+Angle - угол
 Announce - объявлять
 Annoy - раздражать
 Annoying - раздражающий
-Angle - угол
 Anyway - в любом случае
+Apologize - извиняться
 Appear - приближаться/появляться
 Apply - применять
-Apologize - извиняться
 Approach - приближение
 Area - площадь
-Arrive - прибывать
 Argue - спорить
+Arrive - прибывать
 Arrow - стрела
 As soon - как только
+Ashore - на берег
 Assassin - убийца
 Asshole - мудак
-Ashore - на берег
 Attempt - попытка
 Attention - внимание
 Available - доступно
@@ -44,18 +44,18 @@ Bar - плитка
 Basic - основной
 Bastard - ублюдок
 Beat - взбить/бить
+Behold - созерцать
 Being - существование
-Below - ниже
 Believe - верить
 Belong - принадлежать
+Below - ниже
 Besides - кроме того
 Betray - предавать
-Behold - созерцать
 Bisect - делить пополам
 Blade - нож, лезвие
 Blame - вина
-Blind - слепой
 Bless - благословлять
+Blind - слепой
 Bored - скучающий
 Boring - скучный
 Bottle - бутылка
@@ -65,28 +65,28 @@ Brave - храбрый
 Browse - просматривать
 By the time - к тому времени
 By the way - между прочим, кстати
+Call of duty - чувство долга
 Calm - спокойный
 Cannot - нельзя
 Carefully - аккуратно
 Cause - причина
-Call of duty - чувство долга
 Certain - определенный
 Certainly - определенно, конечно
-Chase - преследовать
 Charge - заряжать
+Chase - преследовать
 Checked - клеточный
 Cheers - за ваше здоровье
 Circle - круг
 Collapse - крах
 Common - общий
 Communication - общение
-Conclusion - вывод
 Conceal - скрывать
+Conclusion - вывод
 Condition - состояние
+Confusion - путаница
 Consume - потреблять
 Contain - содержать
 Conversation - разговор
-Confusion - путаница
 Courage - мужество
 Cover - покрытие
 Crowded - переполненный
@@ -101,12 +101,12 @@ Decide - решать
 Dedicated - посвященный
 Definitely - однозначно
 Deliver - доставлять
-Destroy - разрушать
 Desk job - работа в офисе
-Despite - несмотря на
 Desperate - отчаянный
+Despite - несмотря на
 Destination - место назначения
 Destiny - судьба
+Destroy - разрушать
 Different way - по другому
 Directory - каталог
 Disable - отключить
@@ -140,34 +140,35 @@ Excited - возбужденный
 Exhausted - измученный
 Exists - существует
 Expect - кроме
-Expression - выражение
 Expect - ожидать
 Explain - объяснять
 Explode - взорвать
 Explosion - взрыв
+Expression - выражение
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
 Fault - ошибка
 Feedback - обратная связь
+Fellas - парни
 Female - женский
 Few - несколько
-Fellas - парни
 Fiber - волокно
 Fill - заполнять
-Font - шрифт
-Founder - основател
-Forbidden - Запрещено
-Fortunately - к счастью
-Forget - забывать
 Follow the schedule - следовать графику
-Framework - рамки
+Font - шрифт
+Forbidden - Запрещено
+Forget - забывать
+Fortunately - к счастью
+Founder - основател
 Fragile - хрупкий
+Framework - рамки
 Freak - чудак, фрик. Freaking - долбанный
 Frustration - разочарование
 Funny - смешной, забавный
 Furniture - мебель
 Gate - ворота
+Gentle - нежный 
 Genuinely - искренне
 Give up - сдаваться
 Globe - земной шар
@@ -178,13 +179,12 @@ Government - правительство
 Grand - великий, роскошный
 Greetings - приветствую
 Guardian - страж
-Gentle - нежный 
-Happy - счастливый
 Hand in hand - рука об руку
+Happy - счастливый
 Healthy - здоровый
 Heat - жара
-Hesitaie - колебаться
 Height - высота
+Hesitaie - колебаться
 Hold - держать
 Honest - честный
 Honor - честь, уважение, почесть
@@ -197,14 +197,14 @@ I second that - я поддерживаю это
 Immediately - немедленно
 Impact - влияние
 Impossible - невозможно
-Improve - улучшать
 Impressive - впечатляющий
+Improve - улучшать
 Incredible - невероятно
 Indeed - действительно
 Initialize - инициализировать
 Initially - первоначально
-Inspection - анализ
 Insert - вставлять
+Inspection - анализ
 Intention - намерение
 Interact - взаимодействовать
 Interest - интерес
@@ -216,8 +216,8 @@ Invalid - неправильно
 Issue - вопрос
 It’s not right - это неправильно
 Jealousy - ревность
-Kidnap - похищать
 Keystroke - нажате клавиши
+Kidnap - похищать
 Kind - тип
 Kinda - вроде
 Kingdom - царство
@@ -231,18 +231,18 @@ Loaf - буханка
 Lonely - одинокий
 Lovely - прекрасный
 Mad - безумный
-Mutually - взаимно
 Majestic - величественный
 Male - мужской, мужчина
 Manage - управлять
-Melt - таять, растопить
 Mean - озночать, значить
+Melt - таять, растопить
 Memorize - запомнить, выучить наизусть
 Memory - память
 Might - вероятно
 Mindset - образ мышления
 Minor - незначительный 
 Modern - современный
+Mutually - взаимно
 Necessary - необходимо
 Neck - шея
 Network - сеть, любая компьютерная сеть
@@ -258,9 +258,9 @@ Opinion - мнение
 Opportunity - возможность
 Opposite - противоположный
 Optical fiber - оптоволокно
+Order - приказ
 Organized - организованный
 Origin - истоки/происхождение
-Order - приказ
 Outlet - выход
 Pale - бледный
 Part-time - неполная занятость
@@ -269,10 +269,10 @@ Pattern - узор/шаблон
 Pay rise - повышение зарплаты
 Payload - полезная нагрузка
 Peel - чистить
-Perhaps - возможно
 Perform - выполнять
-Pinch of salt - щепотка соли
+Perhaps - возможно
 Pigtails - косички
+Pinch of salt - щепотка соли
 Pleasure - удовольствие
 Pocket - карман
 Polka dot - в горошек
@@ -285,9 +285,9 @@ Previous - предыдущий
 Print - печатать
 Private insurance - частное страхование
 Probably - вероятно
-Prompt - подсказка, командная строка.
 Prohibition - запрет
 Promise - обещать
+Prompt - подсказка, командная строка.
 Public insurance - государственное страхование
 Puppy - щенок
 Quote - цитата
@@ -310,17 +310,17 @@ Regard - уважение, отношение / warm regards - с теплыми
 Regret - сожалеть
 Relationships - отношения
 Relative - родственник, сравнительный
-Remind - напоминать
 Remember - помнить
+Remind - напоминать
+Replace - заменять
 Reply - отвечать
 Reportedly - cообщается
-Replace - заменять
 Represent - представлять
 Request - запрос
 Require - требовать. Requirement - требование
 Resolution - разрешение
-Respect - уважать
 Resolve - решать
+Respect - уважать
 Response - ответ
 Responsible - ответственный
 Revelations - откровения
@@ -335,6 +335,7 @@ Salary - зарплата
 Salty - соленый 
 Savage - дикарь
 Scare - пугать
+Scent - запах
 Schedule - график, расписание
 Scheme - схема
 Second-hand - подержанный
@@ -353,62 +354,62 @@ Show - показывать
 Similar - похожи
 Sincerely - искренне
 Size - размер
-Slice - ломтик
+Skull - череп
 Slay - убивать
+Slice - ломтик
 Sniff - нюхать
 Solid - твердый
 Solitude - одиночество
 Soon - скоро
-Source - источник
 Sorcery - колдовство
+Source - источник
 Special - особый
 Spit - плевать
 Squash - раздавить
 Statement - высказывание, утверждение
 Still - все еще
 Storage - хранилище
+Stranger - незнакомец
 Stripe - полоса
 Striped - полосатый
-Stranger - незнакомец
 Sub - под, почти
 Suddenly - внезапно
 Sure - конечно
-Surround - окружать
 Surprised - удивленный
+Surround - окружать
 Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать 
 Switchblade - складной нож
-Skull - череп
-Teaspoon - чайная ложка
-Term - срок, термин
 Tears - слезы
+Teaspoon - чайная ложка
 Tendency - тенденция
+Term - срок, термин
 There we go - вот так вот
 Thought - мысль
 Through - через
 Throw - бросать
 Thunder - гром
-Tiny - крошечный
 Till - пока
+Tiny - крошечный
 Top down - сверху вниз
+Torture - пытка
 Tough - жесткий
 Towel - полотенце
-Torture - пытка
 Trade - торговля
 Traitor - предатель
+Treason - измена
 Triangle - треугольник
 Triangular - треугольный
-Trick - трюк
 Tribe - племя
+Trick - трюк
 Trust - доверять
 Try out - попробуйте
-Treason - измена
 Unfortunately - к сожалению
 Unity - единство
 Unlike - непохож
-Untill - до сих пор
 Unpredictable - непредсказуемый
+Untill - до сих пор
 Upset - расстроенный
 Upstairs - вверх по лестнице
 Useful - полезный
@@ -418,8 +419,8 @@ Victim - жертва
 Violent - грубый
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
-Waste - тратить
 Warning - предупреждение
+Waste - тратить
 We are of one mind - мы придерживаемся одного мнения
 Wealth - богатство
 Weird - странный
@@ -433,5 +434,5 @@ Wish - желаю
 Wooden - деревянный
 Woollen - шерстяной
 Worry - беспокоиться
-Wrong - неправильно
 Wrist - запястье
+Wrong - неправильно
