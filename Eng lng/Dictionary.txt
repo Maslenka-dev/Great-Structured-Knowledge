@@ -381,6 +381,7 @@ Survived - выживший
 Suspect - подозревать
 Switch - переключатель, переключать 
 Switchblade - складной нож
+Swear - клятва.
 Tears - слезы
 Teaspoon - чайная ложка
 Tendency - тенденция
