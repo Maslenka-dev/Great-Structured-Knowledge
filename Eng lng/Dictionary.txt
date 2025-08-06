@@ -437,3 +437,5 @@ Woollen - шерстяной
 Worry - беспокоиться
 Wrist - запястье
 Wrong - неправильно
+Essential - существенный, важнейший
+capital
