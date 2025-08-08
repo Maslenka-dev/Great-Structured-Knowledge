@@ -44,6 +44,7 @@ Bar - плитка
 Basic - основной
 Bastard - ублюдок
 Beat - взбить/бить
+Beef - говядина
 Behold - созерцать
 Being - существование
 Believe - верить
@@ -223,6 +224,7 @@ Kinda - вроде
 Kingdom - царство
 Launch - запуск
 Layout - расположение
+Lamb - баранина
 Less - меньше
 Lifestyle - образ жизни
 Literally - буквально
@@ -279,6 +281,7 @@ Polka dot - в горошек
 Pollution - загрязнение
 Possible - возможно
 Pour - наливать
+Pork - свинина
 Prediction - предсказание
 Pressure - давление
 Previous - предыдущий
@@ -438,4 +441,8 @@ Worry - беспокоиться
 Wrist - запястье
 Wrong - неправильно
 Essential - существенный, важнейший
-capital
+Capital - столица
+Loan - кредит
+Miracle - чудо
+Afford - позволить себе
+Villain - злодей 
