@@ -445,4 +445,20 @@ Capital - столица
 Loan - кредит
 Miracle - чудо
 Afford - позволить себе
-Villain - злодей 
+Villain - злодей
+Steal - красть 
+Stole - украл
+Effort - усилие
+Crucify - распять (распинать)
+Bless - благословить 
+Avalanche - лавина
+Effort - усилие
+Apparently - вероятно, видимо
+Assemble - собирать (команду)
+Fella - парень
+Appreciate - ценить
+Despicable - презренный, гадкий
+At least - по крайней мере
+Bleak - мрачный 
+Valor - доблесть
+Spectacular - впечатляющий
