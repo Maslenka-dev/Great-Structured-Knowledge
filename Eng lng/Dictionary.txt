@@ -26,7 +26,7 @@ Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
 Apparently - вероятно, видимо
-Appear - приближаться/появляться
+Appear - приближаться, появляться
 Apply - применять
 Appreciate - ценить
 Approach - приближение
@@ -51,7 +51,7 @@ Bakery - пекарня
 Bar - плитка
 Basic - основной
 Bastard - ублюдок
-Beat - взбить/бить
+Beat - взбить, бить
 Beef - говядина
 Behold - созерцать
 Being - существование
@@ -66,7 +66,6 @@ Blade - нож, лезвие
 Blame - вина
 Bleak - мрачный 
 Bless - благословить 
-Bless - благословлять
 Blind - слепой
 Bored - скучающий
 Boring - скучный
@@ -105,6 +104,7 @@ Conversation - разговор
 Courage - мужество
 Cover - покрытие
 Crowded - переполненный
+Crowd - толпа
 Crawl - ползать
 Crucify - распять (распинать)
 Current - текущий
@@ -126,6 +126,7 @@ Destination - место назначения
 Destiny - судьба
 Destroy - разрушать
 Different way - по другому
+Diary - дневник
 Directory - каталог
 Disable - отключить
 Disappear - пропадать
@@ -157,6 +158,7 @@ Establish - установить
 Estimated - оцененный
 Event - событие
 Exactly - именно так
+Explore - исследовать
 Exception - исключение
 Excited - возбужденный
 Exhausted - измученный
@@ -181,7 +183,8 @@ Fiber - волокно
 Fill - заполнять
 Follow the schedule - следовать графику
 Font - шрифт
-Forbidden - Запрещено
+Forbidden - запрещенный
+Fork - вилка
 Forget - забывать
 Fortunately - к счастью
 Founder - основател
@@ -262,6 +265,7 @@ Lonely - одинокий
 Luggage - багаж
 Lovely - прекрасный
 Mad - безумный
+Manor - поместье, усадьба
 Majestic - величественный
 Male - мужской, мужчина
 Manage - управлять
@@ -294,12 +298,12 @@ Opposite - противоположный
 Optical fiber - оптоволокно
 Order - приказ
 Organized - организованный
-Origin - истоки/происхождение
+Origin - истоки, происхождение
 Outlet - выход
 Pale - бледный
 Part-time - неполная занятость
-Pass - сдать / пройти
-Pattern - узор/шаблон
+Pass - сдать, пройти
+Pattern - узор, шаблон
 Pay rise - повышение зарплаты
 Payload - полезная нагрузка
 Peel - чистить
@@ -402,6 +406,7 @@ Source - источник
 Special - особый
 Spectacular - впечатляющий
 Spit - плевать
+Spoon - ложка
 Squash - раздавить
 Statement - высказывание, утверждение
 Steal - красть 
@@ -437,7 +442,7 @@ Top down - сверху вниз
 Torture - пытка
 Tough - жесткий
 Towel - полотенце
-Trade - торговля
+Trade - торговать
 Traitor - предатель
 Treason - измена
 Triangle - треугольник
