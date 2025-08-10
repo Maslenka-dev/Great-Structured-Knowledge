@@ -3,6 +3,7 @@ Ability - способность
 Able - способный
 Absolutely - абсолютно
 Accident - несчастный случай
+Accidently - случайно
 Act your age - веди себя в соответствии со своим возрастом
 Actually - фактически
 Admit - признавать
@@ -20,7 +21,7 @@ Among - среди
 Amount - сумма
 Angle - угол
 Announce - объявлять
-Annoy - раздражать
+Annoy - раздражат
 Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
@@ -60,6 +61,7 @@ Below - ниже
 Besides - кроме того
 Betray - предавать
 Bisect - делить пополам
+Blank - пустой
 Blade - нож, лезвие
 Blame - вина
 Bleak - мрачный 
@@ -137,6 +139,7 @@ Drip - Капать
 Drive - диск, накопитель
 Duration - продолжительность
 Earning - заработок
+Each - каждый
 East - восток
 Effort - усилие
 Effort - усилие
@@ -164,6 +167,7 @@ Explain - объяснять
 Explode - взорвать
 Explosion - взрыв
 Expression - выражение
+Expressive - выразительный
 Falcon - сокол
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -197,6 +201,7 @@ Goofy - глупый
 Govern - править
 Government - правительство
 Grand - великий, роскошный
+Grocery store - продуктовый магазин
 Greetings - приветствую
 Guardian - страж
 Hand in hand - рука об руку
@@ -210,6 +215,7 @@ Honest - честный
 Honor - честь, уважение, почесть
 However - однако
 Huge - огромный
+Hunt - охота
 Humble - скромный
 I agree - я согласен
 I feel that way too - Я тоже так чувствую
@@ -246,12 +252,14 @@ Lamb - баранина
 Launch - запуск
 Layout - расположение
 Less - меньше
+Lead - вести
 Lifestyle - образ жизни
 Literally - буквально
 Litre - литр
 Loaf - буханка
 Loan - кредит
 Lonely - одинокий
+Luggage - багаж
 Lovely - прекрасный
 Mad - безумный
 Majestic - величественный
@@ -267,6 +275,8 @@ Minor - незначительный
 Miracle - чудо
 Modern - современный
 Mutually - взаимно
+Mug - кружка
+Much - много
 Necessary - необходимо
 Neck - шея
 Network - сеть, любая компьютерная сеть
