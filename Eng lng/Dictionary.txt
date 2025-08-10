@@ -1,3 +1,4 @@
+Abbys - бездна
 Ability - способность
 Able - способный
 Absolutely - абсолютно
@@ -8,6 +9,7 @@ Admit - признавать
 Advantage - преимущество
 Advice - совет
 Affect - влиять
+Afford - позволить себе
 Ahead - впереди
 Alert - тревога
 Allow - позволять
@@ -22,8 +24,10 @@ Annoy - раздражать
 Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
+Apparently - вероятно, видимо
 Appear - приближаться/появляться
 Apply - применять
+Appreciate - ценить
 Approach - приближение
 Area - площадь
 Argue - спорить
@@ -32,10 +36,13 @@ Arrow - стрела
 As soon - как только
 Ashore - на берег
 Assassin - убийца
+Assemble - собирать (команду)
 Asshole - мудак
+At least - по крайней мере
 Attempt - попытка
 Attention - внимание
 Available - доступно
+Avalanche - лавина
 Awake - проснуться
 Aware - осведомлен
 Awkward - неловко
@@ -55,6 +62,8 @@ Betray - предавать
 Bisect - делить пополам
 Blade - нож, лезвие
 Blame - вина
+Bleak - мрачный 
+Bless - благословить 
 Bless - благословлять
 Blind - слепой
 Bored - скучающий
@@ -69,6 +78,7 @@ By the way - между прочим, кстати
 Call of duty - чувство долга
 Calm - спокойный
 Cannot - нельзя
+Capital - столица
 Carefully - аккуратно
 Cause - причина
 Certain - определенный
@@ -78,6 +88,8 @@ Chase - преследовать
 Checked - клеточный
 Cheers - за ваше здоровье
 Circle - круг
+Clean - чистый
+Clear - чистить
 Collapse - крах
 Common - общий
 Communication - общение
@@ -91,6 +103,8 @@ Conversation - разговор
 Courage - мужество
 Cover - покрытие
 Crowded - переполненный
+Crawl - ползать
+Crucify - распять (распинать)
 Current - текущий
 Currently - в настоящий момент
 Curse - проклятье
@@ -104,6 +118,7 @@ Definitely - однозначно
 Deliver - доставлять
 Desk job - работа в офисе
 Desperate - отчаянный
+Despicable - презренный, гадкий
 Despite - несмотря на
 Destination - место назначения
 Destiny - судьба
@@ -123,6 +138,8 @@ Drive - диск, накопитель
 Duration - продолжительность
 Earning - заработок
 East - восток
+Effort - усилие
+Effort - усилие
 Emergency - чрезвычайная ситуация
 Enhance - улучшить. Enhanced - улучшенный
 Enough - достаточно
@@ -131,6 +148,7 @@ Environment - окружающая среда, окружение
 Equal - равно
 Equipment - оборудование 
 Especially - особенно
+Essential - существенный, важнейший
 Essentially - существенно, значительно
 Establish - установить
 Estimated - оцененный
@@ -151,6 +169,7 @@ Fame - слава
 Fancy - нарядный, модный, шикарный
 Fault - ошибка
 Feedback - обратная связь
+Fella - парень
 Fellas - парни
 Female - женский
 Few - несколько
@@ -200,6 +219,7 @@ Impact - влияние
 Impossible - невозможно
 Impressive - впечатляющий
 Improve - улучшать
+Increase - увеличение
 Incredible - невероятно
 Indeed - действительно
 Initialize - инициализировать
@@ -222,14 +242,15 @@ Kidnap - похищать
 Kind - тип
 Kinda - вроде
 Kingdom - царство
+Lamb - баранина
 Launch - запуск
 Layout - расположение
-Lamb - баранина
 Less - меньше
 Lifestyle - образ жизни
 Literally - буквально
 Litre - литр
 Loaf - буханка
+Loan - кредит
 Lonely - одинокий
 Lovely - прекрасный
 Mad - безумный
@@ -243,6 +264,7 @@ Memory - память
 Might - вероятно
 Mindset - образ мышления
 Minor - незначительный 
+Miracle - чудо
 Modern - современный
 Mutually - взаимно
 Necessary - необходимо
@@ -279,9 +301,10 @@ Pleasure - удовольствие
 Pocket - карман
 Polka dot - в горошек
 Pollution - загрязнение
+Pork - свинина
 Possible - возможно
 Pour - наливать
-Pork - свинина
+Pray - молиться
 Prediction - предсказание
 Pressure - давление
 Previous - предыдущий
@@ -367,10 +390,13 @@ Soon - скоро
 Sorcery - колдовство
 Source - источник
 Special - особый
+Spectacular - впечатляющий
 Spit - плевать
 Squash - раздавить
 Statement - высказывание, утверждение
+Steal - красть 
 Still - все еще
+Stole - украл
 Storage - хранилище
 Stranger - незнакомец
 Stripe - полоса
@@ -381,10 +407,11 @@ Sure - конечно
 Surprised - удивленный
 Surround - окружать
 Survived - выживший
+Sucker - простофиля
 Suspect - подозревать
+Swear - клятва
 Switch - переключатель, переключать 
 Switchblade - складной нож
-Swear - клятва.
 Tears - слезы
 Teaspoon - чайная ложка
 Tendency - тенденция
@@ -418,8 +445,10 @@ Upset - расстроенный
 Upstairs - вверх по лестнице
 Useful - полезный
 Useless - бесполезный
+Valor - доблесть
 Vehicle - транспортное средство
 Victim - жертва
+Villain - злодей
 Violent - грубый
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
@@ -440,25 +469,3 @@ Woollen - шерстяной
 Worry - беспокоиться
 Wrist - запястье
 Wrong - неправильно
-Essential - существенный, важнейший
-Capital - столица
-Loan - кредит
-Miracle - чудо
-Afford - позволить себе
-Villain - злодей
-Steal - красть 
-Stole - украл
-Effort - усилие
-Crucify - распять (распинать)
-Bless - благословить 
-Avalanche - лавина
-Effort - усилие
-Apparently - вероятно, видимо
-Assemble - собирать (команду)
-Fella - парень
-Appreciate - ценить
-Despicable - презренный, гадкий
-At least - по крайней мере
-Bleak - мрачный 
-Valor - доблесть
-Spectacular - впечатляющий
