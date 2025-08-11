@@ -61,6 +61,7 @@ Below - ниже
 Besides - кроме того
 Betray - предавать
 Bisect - делить пополам
+Bite - кусать
 Blank - пустой
 Blade - нож, лезвие
 Blame - вина
