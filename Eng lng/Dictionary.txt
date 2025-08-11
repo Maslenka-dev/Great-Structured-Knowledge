@@ -21,7 +21,7 @@ Among - среди
 Amount - сумма
 Angle - угол
 Announce - объявлять
-Annoy - раздражат
+Annoy - раздражать
 Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
@@ -210,6 +210,7 @@ Guardian - страж
 Hand in hand - рука об руку
 Happy - счастливый
 Healthy - здоровый
+Health - здоровье
 Heat - жара
 Height - высота
 Hesitaie - колебаться
@@ -272,6 +273,7 @@ Manage - управлять
 Mean - озночать, значить
 Melt - таять, растопить
 Memorize - запомнить, выучить наизусть
+Member - член
 Memory - память
 Might - вероятно
 Mindset - образ мышления
@@ -379,7 +381,7 @@ Scent - запах
 Schedule - график, расписание
 Scheme - схема
 Second-hand - подержанный
-Seems - кажется
+Seem - казаться
 Semi - полу
 Send - посылать
 Separate - разделитель
@@ -480,6 +482,7 @@ Width - ширина
 Wise - мудрый
 Wish - желаю
 Wooden - деревянный
+Wood - дерево
 Woollen - шерстяной
 Worry - беспокоиться
 Wrist - запястье
