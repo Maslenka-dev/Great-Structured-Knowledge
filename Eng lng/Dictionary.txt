@@ -46,6 +46,7 @@ Available - доступно
 Avalanche - лавина
 Awake - проснуться
 Aware - осведомлен
+Awful - ужасный
 Awkward - неловко
 Bakery - пекарня
 Bar - плитка
@@ -216,6 +217,7 @@ Heat - жара
 Height - высота
 Hesitaie - колебаться
 Hold - держать
+Horrible - ужасный 
 Honest - честный
 Honor - честь, уважение, почесть
 However - однако
@@ -304,6 +306,7 @@ Organized - организованный
 Origin - истоки, происхождение
 Outlet - выход
 Pale - бледный
+Package - пакет
 Part-time - неполная занятость
 Pass - сдать, пройти
 Pattern - узор, шаблон
@@ -393,6 +396,7 @@ Sharp - острый
 Shawty - коротышка
 Shemale - транссексуал
 Shift - смена
+Shin - голень
 Show - показывать
 Similar - похожи
 Sincerely - искренне
@@ -407,6 +411,7 @@ Soon - скоро
 Sorcery - колдовство
 Source - источник
 Special - особый
+Speech - речь
 Spectacular - впечатляющий
 Spit - плевать
 Spoon - ложка
@@ -431,9 +436,11 @@ Swear - клятва
 Switch - переключатель, переключать 
 Switchblade - складной нож
 Tears - слезы
+Tailbone - копчик
 Teaspoon - чайная ложка
 Tendency - тенденция
 Term - срок, термин
+Terrible - ужасный
 There we go - вот так вот
 Thought - мысль
 Through - через
