@@ -25,6 +25,7 @@ Annoy - раздражать
 Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
+Apartment - квартира
 Apparently - вероятно, видимо
 Appear - приближаться, появляться
 Apply - применять
@@ -49,6 +50,7 @@ Aware - осведомлен
 Awful - ужасный
 Awkward - неловко
 Bakery - пекарня
+Burp - рыгать
 Bar - плитка
 Basic - основной
 Bastard - ублюдок
@@ -173,11 +175,14 @@ Explosion - взрыв
 Expression - выражение
 Expressive - выразительный
 Falcon - сокол
+Fart - пукать
+Fluffy - пушистый
 Fame - слава
 Fancy - нарядный, модный, шикарный
 Fault - ошибка
 Feedback - обратная связь
 Fella - парень
+Fellowship - товарищество
 Fellas - парни
 Female - женский
 Few - несколько
@@ -197,9 +202,11 @@ Frustration - разочарование
 Funny - смешной, забавный
 Furniture - мебель
 Gate - ворота
+Garbage - мусор
 Gentle - нежный 
 Genuinely - искренне
 Give up - сдаваться
+Giggle - хихикать
 Globe - земной шар
 Going to | Gonna - собираться
 Goofy - глупый
@@ -287,6 +294,7 @@ Mutually - взаимно
 Mug - кружка
 Much - много
 Necessary - необходимо
+Nerd - ботаник
 Neck - шея
 Network - сеть, любая компьютерная сеть
 Not bad - неплохо
@@ -317,6 +325,7 @@ Perform - выполнять
 Perhaps - возможно
 Pigtails - косички
 Pinch of salt - щепотка соли
+Pinkie - мизинец
 Pleasure - удовольствие
 Pocket - карман
 Polka dot - в горошек
@@ -326,6 +335,8 @@ Possible - возможно
 Pour - наливать
 Pray - молиться
 Prediction - предсказание
+Pretend - притворяться
+Pretender - лицемер
 Pressure - давление
 Previous - предыдущий
 Print - печатать
@@ -376,7 +387,9 @@ Rise - подниматься
 Rolling - катающийся
 Rope - веревка
 Rude - грубый
+Rumor - слух, сплетня
 Sad - грустный
+Sneeze - чихать
 Salary - зарплата
 Salty - соленый 
 Savage - дикарь
@@ -392,6 +405,7 @@ Separate - разделитель
 Sequence - последовательность
 Serve - обслуживать
 Share - делиться
+Shy - застенчивый
 Sharp - острый
 Shawty - коротышка
 Shemale - транссексуал
@@ -484,6 +498,7 @@ Wealth - богатство
 Weird - странный
 West - запад
 What is that mean - что это значит
+Whine - ныть
 Wherever - где бы
 Whole - весь
 Width - ширина
