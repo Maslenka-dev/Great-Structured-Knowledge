@@ -374,7 +374,8 @@ Reply - отвечать
 Reportedly - cообщается
 Represent - представлять
 Request - запрос
-Require - требовать. Requirement - требование
+Require - требовать
+Requirement - требование
 Resolution - разрешение
 Resolve - решать
 Respect - уважать
@@ -451,6 +452,7 @@ Switch - переключатель, переключать
 Switchblade - складной нож
 Tears - слезы
 Tailbone - копчик
+Target - цель
 Teaspoon - чайная ложка
 Tendency - тенденция
 Term - срок, термин
