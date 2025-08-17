@@ -118,6 +118,7 @@ Dash - тире, дефис
 Data transmission - передача данных
 Dazzle me - удиви меня
 Deadline - крайний срок
+Devil - дьявол
 Decide - решать
 Dedicated - посвященный
 Definitely - однозначно
@@ -162,6 +163,7 @@ Essentially - существенно, значительно
 Establish - установить
 Estimated - оцененный
 Event - событие
+Evil - зло
 Exactly - именно так
 Explore - исследовать
 Exception - исключение
@@ -214,6 +216,7 @@ Goofy - глупый
 Govern - править
 Government - правительство
 Grand - великий, роскошный
+Grave - могила
 Grocery store - продуктовый магазин
 Greetings - приветствую
 Guardian - страж
