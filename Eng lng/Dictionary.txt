@@ -120,6 +120,7 @@ Dazzle me - удиви меня
 Deadline - крайний срок
 Devil - дьявол
 Decide - решать
+Decline - снижение
 Dedicated - посвященный
 Definitely - однозначно
 Deliver - доставлять
@@ -244,7 +245,7 @@ Impossible - невозможно
 Impressive - впечатляющий
 Improve - улучшать
 Increase - увеличение
-Incredible - невероятно
+Incredible - невероятный
 Indeed - действительно
 Initialize - инициализировать
 Initially - первоначально
@@ -262,6 +263,7 @@ Issue - вопрос
 It’s not right - это неправильно
 Jealousy - ревность
 Keystroke - нажате клавиши
+Knee - колено
 Kidnap - похищать
 Kind - тип
 Kinda - вроде
@@ -350,6 +352,7 @@ Prohibition - запрет
 Promise - обещать
 Prompt - подсказка, командная строка.
 Public insurance - государственное страхование
+Pure - чистый
 Puppy - щенок
 Quote - цитата
 Raise - поднимать
@@ -444,6 +447,7 @@ Stranger - незнакомец
 Stripe - полоса
 Striped - полосатый
 Sub - под, почти
+Suggest - предлагать
 Suddenly - внезапно
 Stuff - хлам, барахло
 Sure - конечно
@@ -496,12 +500,15 @@ Vehicle - транспортное средство
 Victim - жертва
 Villain - злодей
 Violent - грубый
+Violence - насилие
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
 Warning - предупреждение
 Waste - тратить
 We are of one mind - мы придерживаемся одного мнения
 Wealth - богатство
+Wed - жениться
+Wedding - свадьба
 Weird - странный
 West - запад
 What is that mean - что это значит
@@ -514,6 +521,7 @@ Wish - желаю
 Wooden - деревянный
 Wood - дерево
 Woollen - шерстяной
+Wooden - деревянный
 Worry - беспокоиться
 Wrist - запястье
 Wrong - неправильно
