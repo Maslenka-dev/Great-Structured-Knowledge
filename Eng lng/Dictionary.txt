@@ -55,6 +55,7 @@ Bar - плитка
 Basic - основной
 Bastard - ублюдок
 Beat - взбить, бить
+Begin - начать
 Beef - говядина
 Behold - созерцать
 Being - существование
@@ -222,6 +223,7 @@ Grocery store - продуктовый магазин
 Greetings - приветствую
 Guardian - страж
 Hand in hand - рука об руку
+Hangout - тусоваться
 Happy - счастливый
 Healthy - здоровый
 Health - здоровье
@@ -250,6 +252,7 @@ Indeed - действительно
 Initialize - инициализировать
 Initially - первоначально
 Insert - вставлять
+Instant - моментальный
 Inspection - анализ
 Intention - намерение
 Interact - взаимодействовать
@@ -305,6 +308,7 @@ Neck - шея
 Network - сеть, любая компьютерная сеть
 Not bad - неплохо
 Notification - уведомление
+Notice - уведомление
 Notify - уведомлять
 Nuclear - ядерный
 Obscene words - непристойные слова
@@ -322,6 +326,8 @@ Outlet - выход
 Pale - бледный
 Package - пакет
 Part-time - неполная занятость
+Participate - участвовать
+Take part - принять участие
 Pass - сдать, пройти
 Pattern - узор, шаблон
 Pay rise - повышение зарплаты
@@ -353,6 +359,7 @@ Promise - обещать
 Prompt - подсказка, командная строка.
 Public insurance - государственное страхование
 Pure - чистый
+Purpose - цель
 Puppy - щенок
 Quote - цитата
 Raise - поднимать
@@ -397,6 +404,7 @@ Rope - веревка
 Rude - грубый
 Rumor - слух, сплетня
 Sad - грустный
+Smell - запах
 Sneeze - чихать
 Salary - зарплата
 Salty - соленый 
@@ -421,6 +429,7 @@ Shift - смена
 Shin - голень
 Show - показывать
 Similar - похожи
+Silent - тихий
 Sincerely - искренне
 Size - размер
 Skull - череп
