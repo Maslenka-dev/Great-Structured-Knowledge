@@ -3,6 +3,7 @@ Ability - способность
 Able - способный
 Absolutely - абсолютно
 Accident - несчастный случай
+Accept - принимать
 Accidently - случайно
 Act your age - веди себя в соответствии со своим возрастом
 Actually - фактически
@@ -14,6 +15,7 @@ Afford - позволить себе
 Ahead - впереди
 Alert - тревога
 Allow - позволять
+All over the world - по всему миру
 Alternate - чередовать
 Although - несмотря на то что, хотя
 Amazing - удивительный
@@ -22,6 +24,7 @@ Amount - сумма
 Angle - угол
 Announce - объявлять
 Annoy - раздражать
+Again - снова
 Annoying - раздражающий
 Anyway - в любом случае
 Apologize - извиняться
@@ -32,10 +35,12 @@ Apply - применять
 Appreciate - ценить
 Approach - приближение
 Area - площадь
+Article - статья
 Argue - спорить
 Arrive - прибывать
 Arrow - стрела
 As soon - как только
+As well as - также как
 Ashore - на берег
 Assassin - убийца
 Assemble - собирать (команду)
@@ -45,7 +50,7 @@ Attempt - попытка
 Attention - внимание
 Available - доступно
 Avalanche - лавина
-Awake - проснуться
+Awake - проснуться (самому)
 Aware - осведомлен
 Awful - ужасный
 Awkward - неловко
@@ -135,6 +140,7 @@ Destiny - судьба
 Destroy - разрушать
 Different way - по другому
 Diary - дневник
+Dialogue - диалог
 Directory - каталог
 Disable - отключить
 Disappear - пропадать
@@ -181,6 +187,7 @@ Expression - выражение
 Expressive - выразительный
 Falcon - сокол
 Fart - пукать
+Far away - далеко
 Fluffy - пушистый
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -196,6 +203,8 @@ Fill - заполнять
 Follow the schedule - следовать графику
 Font - шрифт
 Forbidden - запрещенный
+For now - пока что
+Forced - принудительно
 Fork - вилка
 Forget - забывать
 Fortunately - к счастью
@@ -247,6 +256,7 @@ Impossible - невозможно
 Impressive - впечатляющий
 Improve - улучшать
 Increase - увеличение
+In different ways - по разному
 Incredible - невероятный
 Indeed - действительно
 Initialize - инициализировать
@@ -272,6 +282,7 @@ Kind - тип
 Kinda - вроде
 Kingdom - царство
 Lamb - баранина
+Land - земля
 Launch - запуск
 Layout - расположение
 Less - меньше
@@ -280,6 +291,7 @@ Lifestyle - образ жизни
 Literally - буквально
 Litre - литр
 Loaf - буханка
+Long ago - давно
 Loan - кредит
 Lonely - одинокий
 Luggage - багаж
@@ -293,6 +305,7 @@ Mean - озночать, значить
 Melt - таять, растопить
 Memorize - запомнить, выучить наизусть
 Member - член
+Most probably - скорее всего (наиболее вероятно)
 Memory - память
 Might - вероятно
 Mindset - образ мышления
@@ -303,6 +316,7 @@ Mutually - взаимно
 Mug - кружка
 Much - много
 Necessary - необходимо
+Native - родной
 Nerd - ботаник
 Neck - шея
 Network - сеть, любая компьютерная сеть
@@ -313,6 +327,7 @@ Notify - уведомлять
 Nuclear - ядерный
 Obscene words - непристойные слова
 Obviously - очевидно
+Occupation - оккупация
 Offer - предложение
 One more time - еще раз
 Opinion - мнение
@@ -404,9 +419,11 @@ Rope - веревка
 Rude - грубый
 Rumor - слух, сплетня
 Sad - грустный
+Safe - безопасный
 Smell - запах
 Sneeze - чихать
 Salary - зарплата
+Satisfy - удовлетворять
 Salty - соленый 
 Savage - дикарь
 Scare - пугать
@@ -438,6 +455,7 @@ Slice - ломтик
 Sniff - нюхать
 Solid - твердый
 Solitude - одиночество
+Something like that - что-то вроде того
 Soon - скоро
 Sorcery - колдовство
 Source - источник
@@ -469,6 +487,7 @@ Swear - клятва
 Switch - переключатель, переключать 
 Switchblade - складной нож
 Tears - слезы
+Territory - территория
 Tailbone - копчик
 Target - цель
 Teaspoon - чайная ложка
@@ -512,6 +531,7 @@ Violent - грубый
 Violence - насилие
 Vocabulary - словарный запас
 Wanna | Want to - хотеть
+Wake up - просыпаться (заставить кого-то проснуться)
 Warning - предупреждение
 Waste - тратить
 We are of one mind - мы придерживаемся одного мнения
@@ -525,6 +545,7 @@ Whine - ныть
 Wherever - где бы
 Whole - весь
 Width - ширина
+Willow - ива
 Wise - мудрый
 Wish - желаю
 Wooden - деревянный
