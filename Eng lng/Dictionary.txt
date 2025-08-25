@@ -388,7 +388,7 @@ Receive - получать
 Receiver - получатель, приемник
 Recently - недавно
 Recognize - распознавать, узнавать
-Recover - Восстанавливаться
+Recover - восстанавливаться
 Rectangle - квадрат
 Rectangular - прямоугольный
 Refresh - обновить
@@ -558,3 +558,22 @@ Worry - беспокоиться
 Wrist - запястье
 Wrong - неправильно
 Yap - тявкать
+Primarily - приемущественно
+Interest - интерес
+Early - ранний
+Earlier - раньше, ранее
+Before - до 
+Fluent - беглый
+Great - отлично
+Strength - сила
+Skinny - худой
+Slim - тонкий
+Thin - тонкий
+Slender - стройный
+Bench press - жим лежа
+Bench - скамья
+Dumbbells - гантели
+Mistake - ошибка 
+It happens - бывает
+Synopsis - краткий обзор
+Circuit - схема 
