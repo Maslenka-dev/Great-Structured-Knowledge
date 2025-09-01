@@ -518,6 +518,7 @@ Trust - доверять
 Try out - попробуйте
 Unfortunately - к сожалению
 Unity - единство
+Unification - объединение
 Unlike - непохож
 Unpredictable - непредсказуемый
 Untill - до сих пор
@@ -577,3 +578,9 @@ Mistake - ошибка
 It happens - бывает
 Synopsis - краткий обзор
 Circuit - схема 
+Appealing - привлекательный
+Unappealing - непривлекательный
+Statement - заявление, утверждение
+Hill - холм
+Teapot - чайник
+Kettle  - чайник
