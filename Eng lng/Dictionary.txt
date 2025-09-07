@@ -187,7 +187,9 @@ Expression - выражение
 Expressive - выразительный
 Falcon - сокол
 Fart - пукать
+Far - далеко
 Far away - далеко
+Far from - далеко от
 Fluffy - пушистый
 Fame - слава
 Fancy - нарядный, модный, шикарный
@@ -201,6 +203,7 @@ Few - несколько
 Fiber - волокно
 Fill - заполнять
 Follow the schedule - следовать графику
+Fool - дурак
 Font - шрифт
 Forbidden - запрещенный
 For now - пока что
@@ -586,3 +589,22 @@ Teapot - чайник
 Kettle  - чайник
 Fly - муха
 Go on - продолжать
+Underclass - низший класс
+Hypocrite - лицемер
+Jester - шут
+March - марш
+Tits - сиськи
+Deceit - обман
+Cunt - пизда 
+Wanker - идиот
+Bushy - густой
+as - потому что, так как, когда, по мере того как
+as ... as - такой же, как | так ... как (She is as tall as her brother)
+Could - мог
+far from
+far
+by ...
+wrong
+stretch
+mark
+get - got - got
