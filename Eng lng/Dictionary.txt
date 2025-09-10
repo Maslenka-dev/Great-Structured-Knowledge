@@ -598,10 +598,25 @@ Deceit - обман
 Cunt - пизда 
 Wanker - идиот
 Bushy - густой
-as - потому что, так как, когда, по мере того как
-as ... as - такой же, как | так ... как (She is as tall as her brother)
 Could - мог
-by - кем совершено действие, каким образом совершается действие, около, к, до.
 Stretch - протяжение                                
 Mark - отметка
 Get - получить
+Theft - кража
+
+as - потому что, так как, когда, по мере того как
+
+as ... as - такой же, как | так ... как (She is as tall as her brother)
+
+by 
+	- кем совершено действие: The book was written by Tolstoy
+	- каким образом совершается действие: by hand, by phone, by train.
+	- время (к определённому моменту): by Monday, by 5 o'clock.
+	- около: by the window, by the lake.
+	- изменения и сравнения: a room 5 by 4 meters (комната 5 на 4 метра), divide 10 by 2 (разделить 10 на 2)
+
+for
+
+	- в течение (о времени): She lived in Paris for three years.
+	- причина или повод: He was arrested for theft.
+	- иногда употребляется в смысле направления: The train left for London.
