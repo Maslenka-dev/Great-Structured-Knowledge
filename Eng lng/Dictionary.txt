@@ -620,3 +620,37 @@ for
 	- в течение (о времени): She lived in Paris for three years.
 	- причина или повод: He was arrested for theft.
 	- иногда употребляется в смысле направления: The train left for London.
+
+Present Simple (Используется для выражения привычек, регулярных действий, фактов).
+
+	- always
+	- usually
+	- sometimes
+	- often
+	- never
+	- rarely
+	- every day / week / month
+	- regulary
+
+Present Continuous (Обозначает действие, происходящее прямо сейчас или временно).
+
+	- now
+	- right now
+	- at the moment
+	- currently
+	- still
+
+Present Perfect (Употребляется для действий, завершённых к настоящему моменту, но имеющих результат сейчас).
+
+	- just
+	- already
+	- yet
+	- ever
+	- never
+	- recently
+
+Present Perfect Countinuous (Выражает действие, начавшееся в прошлом и всё ещё продолжающееся).
+
+	- for 
+	- since 
+	- all day
