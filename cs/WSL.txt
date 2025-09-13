@@ -8,15 +8,15 @@
 
 Установка конкретного дистрибутива:
 
-	wsl --install -d <Distro>
+	wsl --install -d <distroName>
 
 Удаление дистрибутива:
 
-	wsl --unregister <Distro>
+	wsl --unregister <distroName>
 
 Запуск конкретного дистрибутива:
 	
-	wsl -d <Distro> или wsl --distribution <Distro>
+	wsl -d <distroName> или wsl --distribution <distroName>
 
 Запуск WSL без конкретного дистрибутива:
 
@@ -28,7 +28,7 @@
 
 Завершение работы конкретного дистрибутива:
 
-	wsl --terminate <distroName>
+	wsl -t <distroName>
 
 Выход из конкретного дистрибутива:
 
