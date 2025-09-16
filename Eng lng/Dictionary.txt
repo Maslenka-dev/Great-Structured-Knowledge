@@ -603,6 +603,12 @@ Stretch - протяжение
 Mark - отметка
 Get - получить
 Theft - кража
+Ax - топор
+Axe - топор
+Anxious - озабоченный
+Gather - собирать
+Attitude - отношение
+Beaver - бобр
 
 as - потому что, так как, когда, по мере того как
 
@@ -623,34 +629,35 @@ for
 
 Present Simple (Используется для выражения привычек, регулярных действий, фактов).
 
-	- always
-	- usually
-	- sometimes
-	- often
-	- never
-	- rarely
-	- every day / week / month
-	- regulary
+	- always - всегда
+	- usually - обычно
+	- sometimes - иногда
+	- often - часто
+	- never - никогда
+	- rarely - редко
+	- seldom - rarely
+	- every day / week / month - каждый день / неделя / месяц
+	- regularly - регулярно
 
 Present Continuous (Обозначает действие, происходящее прямо сейчас или временно).
 
-	- now
-	- right now
-	- at the moment
-	- currently
-	- still
+	- now - сейчас
+	- right now - прямо сейчас
+	- at the moment - данный момент
+	- currently - в настоящий момент
+	- still - всё еще
 
 Present Perfect (Употребляется для действий, завершённых к настоящему моменту, но имеющих результат сейчас).
 
-	- just
-	- already
-	- yet
-	- ever
-	- never
-	- recently
+	- just - только
+	- already - уже
+	- yet - пока
+	- ever - когда-либо
+	- never - никогда
+	- recently - недавно
 
 Present Perfect Countinuous (Выражает действие, начавшееся в прошлом и всё ещё продолжающееся).
 
-	- for 
-	- since 
-	- all day
+	- for - за
+	- since - с
+	- all day - весь день
