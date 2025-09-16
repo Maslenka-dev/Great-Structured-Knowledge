@@ -609,6 +609,15 @@ Anxious - озабоченный
 Gather - собирать
 Attitude - отношение
 Beaver - бобр
+Infinite - бесконечный
+Everlasting - вечный
+Compare - сравнивать
+General - главный
+Inferno - преисподняя
+Pervert - извращенец
+Apathy - апатия
+Dagger - кинжал
+Numb - онемевший
 
 as - потому что, так как, когда, по мере того как
 
