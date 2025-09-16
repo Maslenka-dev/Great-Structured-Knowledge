@@ -6,7 +6,7 @@ Pull request (запрос на извлечение) - механизм, кот
 
 git --version - текущая версия Git.
 
-git update-git-for-windows - обновление Gti.
+git update-git-for-windows - обновление Git.
 
 git remote add origin <ссылка на удаленный репозиторий> - привязать ваш уже существующий репозиторий к удаленному   
 
