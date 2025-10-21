@@ -1,3 +1,66 @@
 itertools.permutations не знает, что какие-то элементы "одинаковые" - оно просто работает с позициями, а не со значениями.
 
 Для получения уникальной перестановки по символам, можно обернуть результат во множество: set(itertools.permutations('AAB'))
+
+ЧИСЛА НЕ НАЧИНАЮТСЯ С НУЛЯ. ПЕРВАЯ ЦИФРА НИКОГДА НЕ МОЖЕТ БЫТЬ РАВНА НУЛЮ.
+
+----------------------------------------------------------------------
+
+Лида составляет слова из букв К, Р, Ы, Ш, А. Каждая гласная буква встречается в слове не более двух раз. Каждая согласная может стоять в слове на первой позиции, либо не встречаться вовсе. Сколько слов длиною более двух символов может составить Лида?
+
+	from itertools import *
+	r = []
+	for ln in range(3, 6):
+	    for x in product('крыша', repeat = ln):
+	        t = ''.join(x)
+	        t = t.replace('р', 'к').replace('ш', 'к')
+	        if t.count('ы') <= 2 and t.count('а') <= 2:
+	            if (t[0] == 'к' and 'к' not in t[1:5]) or 'к' not in t: 
+	                r.append(x)
+	                print(x)
+	print(len(r))
+
+Ася составляет семибуквенные слова из букв А, П, Е, Л, Ь, С, И, Н. Все буквы слова различны. Буква Ь, если встречается, стоит между двумя согласными. Сколько таких слов может составить Ася?
+
+	from itertools import *
+	r = []
+	for x in permutations('апельсин', 7):
+	    t = ''.join(x)
+	    t = t.replace('л', 'п').replace('с', 'п').replace('н', 'п')
+	    if 'пьп' in t: 
+	        r.append(x)
+	        print(x)
+	    if 'ь' not in t: 
+	        r.append(x)
+	        print(x)
+	print(len(r))	
+
+Определите количество пятизначных чисел в шестнадцатеричной системе счисления, которые не оканчиваются чётными цифрами и не начинаются с цифры 1.
+
+	from itertools import *
+	r = []
+	for x in product('0123456789ABCDEF', repeat = 5):
+	    if x[0] != '0' and x[0] != '1' and int(x[-1], 16) % 2 != 0: 
+	        r.append(x) 
+	print(len(r))	
+
+Определите количество семизначных чисел, записанных в девятеричной системе счисления, учитывая, что числа не могут начинаться с цифр 3 и 7 и не должны содержать пары соседних одинаковых цифр (например, 00).
+
+	from itertools import *
+	r = []
+	for s in product('012345678', repeat = 7): 
+	    x = ''.join(s)
+	    if x[0] not in '037' and '00' not in x and '11' not in x and '22' not in x and '33' not in x and '44' not in x \
+	        and '55' not in x and '66' not in x and '77' not in x and '88' not in x:
+	        r.append(s)
+	print(len(r))	
+
+	ИЛИ
+
+	from itertools import *
+	r = []
+	for s in product('012345678', repeat = 7): 
+		if x[0] not in '037' and all(s[i] != s[i + 1] for i in range(len(x) - 1)):
+		    r.append(s)
+	print(len(r))	
+
