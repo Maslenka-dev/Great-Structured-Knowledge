@@ -474,3 +474,9 @@
 			n //= 3
 		res = res[::-1]	
 		return res
+
+    Является ли число палиндромом:
+
+        d = 44144
+        if str(d) == str(d)[::-1]: print(True)
+        else: print(False)
