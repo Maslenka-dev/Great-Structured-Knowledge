@@ -640,6 +640,26 @@ Weak - слабый
 Hurt - ранить
 Harm - вред
 Integer - целое число
+----
+Chin - подбородок
+Wear / wore - носить / носил
+Tricked - обманутый
+Slip - скользить
+very good - очень хорошо (описывает существительное)
+very well - очень хорошо (описывает глагол)
+Ordinary - обычный
+Explanation - объяснение
+Biofather - биологический отец
+Turd - экскремент
+Twat - придурок
+Blankets - одеяла
+Clumsy - неуклюжий
+Bouqet - букет
+Locker - запирающийся шкафчик
+If so - если это так
+Feature - особенность
+Otherwise - иначе
+
 
 as - потому что, так как, когда, по мере того как
 
@@ -692,3 +712,5 @@ Present Perfect Countinuous (Выражает действие, начавшее
 	- for - за
 	- since - с
 	- all day - весь день
+
+	
