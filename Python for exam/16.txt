@@ -701,3 +701,24 @@ F(n)=F(n−2)+F(n−1)F(n)=F(n−2)+F(n−1) когда n>3n>3 и n≠8n=8.
         f(i)
     for x in range(100):
         if f(x) == 25: print(x)
+
+Задание 16
+Алгоритм вычисления функций F(n) и G(n), где и целое число, задан следующими соотношениями:
+F(n) = F(n - 5) + 3480 если n >= 21 ;
+F(n) = 10(G(n - 9) - 30) если n < 21
+G(n) = n / 20 + 33 если п≥ 264 685;
+G(n) = G(n + 9) - 2 если п< 264 685.
+Чему равно значение функции F(675)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n >= 21: return f(n-5)+3480
+        if n < 21: return 10*(g(n-9)-30)
+    @lru_cache(None)
+    def g(n):
+        if n >= 264685: return n/20 + 33
+        if n < 264685: return g(n+9)-2
+    for i in range(270000, 1, -1):
+        g(i)
+    print(f(675))
