@@ -1,3 +1,19 @@
+отрицание - not()
+конъюнкция - and
+дизъюнкция - or
+импликация - <=
+эквиваленция - ==
+
+Приоритеты логических операций: 
+
+    - not
+    - and
+    - or
+    - <=
+    - ==
+
+ЭТО ОЧЕНЬ ВАЖНО!!
+
 from itertools import *
 def u(x, y, w, z):
     return w and ((x <= y) == (y <= z))
@@ -70,5 +86,393 @@ for x1, x2, x3, x4, x5 in product([0, 1], repeat = 5):
     )
     if len(t) == len(set(t)):
         for p in permutations('xyzw', r = 4):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w):
+    return (z <= x) and ((not y) and ((not w) == y))
+for x1, x2, x3, x4, x5 in product([0, 1], repeat = 5):
+    t = (
+        (0, 1, x1, 0, 0),
+        (1, x2, 0, x3, 0),
+        (0, 1, 1, x4, 1),
+        (x5, 1, 1, 1, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w):
+    return (z == (not y)) and ((not x) or y) and w
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (1, x1, x2, 0, 1),
+        (0, 0, x3, 1, 1),
+        (x4, x5, x6, 1, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return ((x or y) <= z) or (y == w) or z
+for x1, x2, x3, x4 in product([0, 1], repeat = 4):
+    t = (
+        (0, 1, x1, x2, 0),
+        (1, x3, 1, 0, 0),
+        (x4, 1, 1, 0, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (x and (not y)) or (y == z) or w
+for x1, x2, x3, x4 in product([0, 1], repeat = 4):
+    t = (
+        (x1, x2, 1, x3, 0),
+        (0, 0, 0, 1, 0),
+        (1, 0, x4, 1, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (x or y) and (not (y == z)) and (not w)
+for x1, x2, x3, x4 in product([0, 1], repeat = 4):
+    t = (
+        (1, x1, 1, x2, 1),
+        (0, 1, x3, 0, 1),
+        (x4, 1, 1, 0, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (not (w <= x)) or (y <= z) or (not y)
+for x1, x2, x3, x4, x5, x6, x7 in product([0, 1], repeat = 7):
+    t = (
+        (0, 1, x1, x2, 0),
+        (x3, 0, x4, 1, 0),
+        (x5, x6, x7, 0, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(c, a, t, s): return ((not c) <= (not a)) or not(t <= s) or c
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (x1, x2, x3, 1, 0),
+        (x4, 0, 1, 1, 0),
+        (1, x5, 1, x6, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('cats'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (not ((((((w and x) == x) or 1) <= z) or (not x)) and y))
+for x1, x2, x3, x4 in product([0, 1], repeat = 4):
+    t = (
+        (x1, x2, 1, 0, 0),
+        (1, x3, 1, 0, 0),
+        (x4, 0, 0, 1, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (not (w == y)) and (z <= w) and (not x)
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (x1, x2, x3, 1, 1),
+        (1, x4, 1, x5, 1),
+        (0, x6, 1, 0 , 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(w, x, y, z): return ((1 == w) == (not ((w and x) or y))) <= z
+for x1, x2, x3, x4, x5, x6, x7, x8, x9, x10 in product([0, 1], repeat = 10):
+    t = (
+        (x1, x2, 1, x3, 0),
+        (1, x4, 1, x5, 0),
+        (0, 1, 0, 0, 1),
+        (1, x6, 1, x7, 1),
+        (x8, x9, 1, x10, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (x and y) or ((z == y) and w)
+for x1, x2, x3, x4, x5, x6, x7 in product([0, 1], repeat = 7):
+    t = (
+        (x1, x2, 1, 1, 0),
+        (x3, 0, 0, x4, 0),
+        (x5, 0, x6, 0, 1),
+        (x7, 0, 0, 0, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, z, w): return (w or x or (not z) or y) and (w or x or (not z) or (not y)) and (w or (not x) or (not z) or (not y))
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (x1, x2, 1, x3, 0),
+        (x4, 1, 1, x5, 0),
+        (x6, 1, 1, 1, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, w): return (x and (w <= y)) == 1
+for x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11, x12, x13, x14, x15, x16 in product([0, 1], repeat = 16):
+    t = (
+        (x1, 0, x2, 0),
+        (x3, x4, 0, 0),
+        (x5, 0, x6, 0),
+        (x7, 0, x8, 0),
+        (x9, 0, x10, 0),
+        (x11, 1, x12, 1),
+        (x13, x14, 1, 1),
+        (x15, 1, x16, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+from itertools import *
+def f(x, y, w): return (x <= y) and (w or (not w))
+for x1, x2, x3 in product([0, 1], repeat = 3):
+    t = (
+        (1, 1, 0, 0),
+        (x1, 1, x2, 0),
+        (1, 0, 1, 1),
+        (1, x3, 1, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xwy'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+    ИЛИ
+
+    print('x y w')
+    for x in 0, 1:
+        for y in 0, 1:
+            for w in 0, 1:
+                if ((x <= y) and (w or (not w))) == 0: print(x, y, w)
+    print()
+    for x in 0, 1:
+        for y in 0, 1:
+            for w in 0, 1:
+                if ((x <= y) and (w or (not w))) == 1: print(x, y, w)
+
+СЛОЖНАЯ!!
+from itertools import *
+def f(x, y, z, w): return (not (x == (w and (not z)))) and (y == (x and (not w)))
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (x1, x2, 0, x3, 1),
+        (x4, 0, x5, 0, 1),
+        (0, x6, 1, 0, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+СЛОЖНАЯ!! (две функции)
+from itertools import *
+def f(x, y, z, w): return (x <= y) or ((not w) == z)
+def g(x, y, z, w): return (x <= y) == (w and (not z))
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (x1, x2, x3, 0),
+        (x4, x5, 0, 0),
+        (x6, 0, 0, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if list(f(**dict(zip(p, i))) for i in t) == list(g(**dict(zip(p, i))) for i in t):
+                print(*p)
+
+СРЕДНЯЯ!
+from itertools import *
+def f(x, y, z): return x <= (y and z)
+t = (
+    (0, 1, 0, 0),
+    (1, 1, 0, 0)
+)
+cnt = 0
+for p in permutations('xyz'):
+    if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+        cnt += 1
+        print(*p)
+print(cnt)
+
+СРЕДНЯЯ!
+from itertools import *
+def f(x, y, z, w): return (z <= w) and y and (not x)
+for x1, x2, x3, x4, x5 in product([0, 1], repeat = 5):
+    t = (
+        (0, 1, x1, 0, 1),
+        (x2, 0, x3, x4, 1),
+        (0, 1, 1, x5, 0)
+    )
+    if len(t) == len(set(t)): 
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+СЛОЖНАЯ!!
+from itertools import *
+a = set()
+def f(x, y, z, w): return (not ((not (x <= (not w))) and z)) and (not (w <= z)) and (x <= (not z))
+for x1, x2, x3, x4, x5 in product([0, 1], repeat = 5):
+    t = (
+        (1, 0, x1, 0, 1),
+        (1, 0, x2, x3, 0),
+        (x4, 1, x5, 1, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                a.add(p)
+print(len(a))
+
+СРЕДНЯЯ!
+from itertools import *
+def f(x, y, z, w): return ((not x) and y) or (z and (not y)) or ((not z) and w)
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (1, 0, x1, x2, 0),
+        (x3, 1, 0, x4, 0),
+        (x5, x6, 1, 0, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                print(*p)
+
+СЛОЖНАЯ!!
+from itertools import *
+def f(a, b, c, d): return ((a and b) == (not c)) and (b and d)
+def g(a, b, c, d): return ((a and b) == (not c)) and (b == d)
+def m(a, b, c, d): return ((a and b) == (not c)) and (b <= d)
+def l(a, b, c, d): return ((a and b) == (not c)) and (b or d)
+t = (
+    (1, 0, 0, 0, 1),
+    (1, 0, 1, 0, 1),
+    (1, 0, 1, 1, 1),
+    (1, 1, 0, 0, 1)
+)
+if len(t) == len(set(t)):
+    for p in permutations('abcd'):
+        if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+            print(*p, 1)
+        if all(g(**dict(zip(p, i))) == i[-1] for i in t):
+            print(*p, 2)
+        if all(m(**dict(zip(p, i))) == i[-1] for i in t):
+            print(*p, 3)
+        if all(l(**dict(zip(p, i))) == i[-1] for i in t):
+            print(*p, 4)
+
+СЛОЖНАЯ!!
+from itertools import *
+r = set()
+def f(x, y, z): return (x == (not y)) or ((not x) or z)
+def q(x, y, z): return (x == (not y)) or ((not x) and z)
+def w(x, y, z): return (x == (not y)) or ((not x) == z)
+def e(x, y, z): return (x == (not y)) or ((not x) <= z)
+for x1, x2, x3, x4, x5, x6 in product([0, 1], repeat = 6):
+    t = (
+        (0, x1, x2, 0),
+        (x3, 0, x4, 1),
+        (x5, x6, 1, 0)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyz'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                r.add(1)
+            if all(q(**dict(zip(p, i))) == i[-1] for i in t):
+                r.add(2)
+            if all(w(**dict(zip(p, i))) == i[-1] for i in t):
+                r.add(3)
+            if all(e(**dict(zip(p, i))) == i[-1] for i in t):
+                r.add(4)
+print(sorted(r))
+
+СЛОЖНАЯ!!
+from itertools import *
+r = set()
+def f(x, y, z, w): return (w or y) and (x <= (not z)) and (not w)
+for x1, x2, x3, x4, x5 in product([0, 1], repeat = 5):
+    t = (
+        (x1, 0, x2, 0, 1),
+        (1, x3, x4, x5, 1),
+        (1, 1, 0, 0, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw'):
+            if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+                r.add(p)
+print(len(r))
+
+СРЕДНЯЯ!
+from itertools import *
+def f(a, b, c, t): return ((not a) or (not b)) and (c <= (not a)) and ((t and (not a)) or (c and (not b)))
+t = (
+    (1, 0, 0, 1, 0),
+    (1, 1, 0, 1, 1),
+    (0, 0, 0, 1, 0),
+    (1, 0, 0, 0, 1)
+)
+if len(t) == len(set(t)):
+    for p in permutations('abct'):
+        if all(f(**dict(zip(p, i))) == i[-1] for i in t):
+            print(*p)
+
+
+СЛОЖНАЯ!!
+d ∧ (a ∨ ¬c → a ∧ b ∧ ¬c) - ОЧЕНЬ ВНИМАТЕЛЬНО НА СКОБКИ С КОНЪЮНКЦИЕЙ.
+from itertools import *
+def f(a, b, c, d): return d and ((a or (not c)) <= ((a and b) and (not c)))
+for x1, x2, x3, x4 in product([0, 1], repeat = 4):
+    t = (
+        (1, 1, x1, 1, 1),
+        (1, x2, 1, 1, 1),
+        (1, x3, 1, x4, 1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('abcd'):
             if all(f(**dict(zip(p, i))) == i[-1] for i in t):
                 print(*p)
