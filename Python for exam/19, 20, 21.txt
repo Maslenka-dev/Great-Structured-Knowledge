@@ -1,4 +1,4 @@
-ИЗВЕСТНО, ЧТО ВАНЯ ВЫИГРАЛ СВОИ ПЕРВЫМ ХОДОМ ПОСЛЕ НЕУДАЧНОГО ХОДА ПЕТИ - меняем all(h) на any(h) в 5 строчке.
+ИЗВЕСТНО, ЧТО ВАНЯ ВЫИГРАЛ СВОИМ ПЕРВЫМ ХОДОМ ПОСЛЕ НЕУДАЧНОГО ХОДА ПЕТИ - меняем all(h) на any(h) в 5 строчке.
 
 1 куча:
 
@@ -21,6 +21,18 @@
     print([s for s in range(1, 125) if not f(s, 1) and f(s, 3)])
     print([s for s in range(1, 125) if (f(s, 2) or f(s, 4)) and not f(s, 2)])
 
+    За один ход игрок может добавить в любую кучу один камень или добавить в любую кучу столько камней, сколько их в данный момент в другой куче.
+    def f(a, b, m):
+        if a + b >= 68: return m % 2 == 0
+        if m == 0: return 0
+        h = [
+            f(a + 1, b, m - 1),
+            f(a + b, b, m - 1),
+            f(a, b + 1, m - 1),
+            f(a, b + a, m - 1),
+        ]
+        return any(h) if m % 2 != 0 else any(h)
+    print([s for s in range(1, 60) if f(8, s, 2)])
 
     уменьшение кучи:
     def f(s, m):
@@ -31,6 +43,17 @@
     print([s for s in range(31, 1000) if not f(s, 1) and f(s, 2)])
     print([s for s in range(31, 1000) if not f(s, 1) and f(s, 3)])
     print([s for s in range(31, 1000) if (f(s, 2) or f(s, 4)) and not f(s, 2)])
+
+    def f(a, m):
+        if a <= 11: return m % 2 == 0
+        if m == 0: return 0
+        h = [
+            f(a - 3, m - 1),
+            f(a - 7, m - 1),
+            f(a // 3, m - 1)
+        ]
+        return any(h) if m % 2 != 0 else all(h)
+    print([s for s in range(12, 10000) if not f(s, 1) and f(s, 2)])
 
 2 кучи:
 
@@ -50,3 +73,19 @@
     print([s for s in range(1, 83) if not f(17, s, 1) and f(17, s, 2)])
     print([s for s in range(1, 83) if not f(17, s, 1) and f(17, s, 3)])
     print([s for s in range(1, 83) if (f(17, s, 2) or f(17, s, 4)) and not f(17, s, 2)])
+
+    С ЗАМЕНОЙ all(h) на any(h)
+    def f(a, b, m):
+        if a + b >= 150: return m % 2 == 0
+        if m == 0: return 0
+        h = [f(a + 2, b, m - 1), f(a * 3, b, m - 1), f(a, b + 2, m - 1), f(a, b * 3, m - 1)]
+        return any(h) if m % 2 != 0 else any(h)
+    print(min([s for s in range(1, 133) if f(16, s, 2)]))
+
+    def f(a, b, m):
+        if a + b >= 150: return m % 2 == 0
+        if m == 0: return 0
+        h = [f(a + 2, b, m - 1), f(a * 3, b, m - 1), f(a, b + 2, m - 1), f(a, b * 3, m - 1)]
+        return any(h) if m % 2 != 0 else all(h)
+    print([s for s in range(1, 134) if not f(16, s, 1) and f(16, s, 3)])
+    print([s for s in range(1, 134) if (f(16, s, 2) or f(16, s, 4)) and not f(16, s, 2)])
