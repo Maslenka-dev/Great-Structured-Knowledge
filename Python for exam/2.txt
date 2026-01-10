@@ -476,3 +476,17 @@ for x1, x2, x3, x4 in product([0, 1], repeat = 4):
         for p in permutations('abcd'):
             if all(f(**dict(zip(p, i))) == i[-1] for i in t):
                 print(*p)
+
+
+СЛОЖНАЯ!! (две функции)
+from itertools import *
+def f(a, b, c): return b == ((a or c) <= b)
+def g(a, b, c): return b == (a or (c <= b))
+t = (
+    (0, 1, 0, 1),
+    (0, 1, 1, 1),
+    (1, 0, 1, 1)
+)
+for p in permutations('abc'):
+    if list(f(**dict(zip(p, i))) for i in t) == list(g(**dict(zip(p, i))) for i in t):
+        print(*p)
