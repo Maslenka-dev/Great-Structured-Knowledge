@@ -722,3 +722,113 @@ G(n) = G(n + 9) - 2 если п< 264 685.
     for i in range(270000, 1, -1):
         g(i)
     print(f(675))
+
+F(n)=F(n−6)+2048, если n>30n>30;
+F(n)=3×(G(n−5)+13),F(n)=3×(G(n−5)+13),, если n≤30n≤30;
+G(n)=2×n+50G(n)=2×n+50, если n≥221337n≥221337;
+G(n)=G(n+11)−48G(n)=G(n+11)−48, если n<221337n<221337.
+Чему равно значение функции F(5078)F(5078)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n > 30: return f(n - 6) + 2048
+        return 3 * (g(n - 5) + 13)
+    @lru_cache(None)
+    def g(n):
+        if n >= 221337: return 2 * n + 50
+        return g(n + 11) - 48
+    for i in range(222000, 1, -1):
+        g(i)
+    for j in range(10, 6000):
+        f(j)
+    print(f(5078))
+
+    ИЛИ
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n > 30: return f(n - 6) + 2048
+        return 3 * (g(n - 5) + 13)
+    @lru_cache(None)
+    def g(n):
+        if n >= 221337: return 2 * n + 50
+        return g(n + 11) - 48
+    for i in range(222000, 1, -1):
+        g(i)
+    print(f(5078))
+
+F(n)=F(n−4)+3020, если n>40n>40;
+F(n)=3×(G(n−2)−15)F(n)=3×(G(n−2)−15), если n≤40n≤40;
+G(n)=10×n+50G(n)=10×n+50, если n≥301208n≥301208;
+G(n)=G(n+7)−21G(n)=G(n+7)−21, если n<301208n<301208.
+Чему равно значение функции F(2026)F(2026)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n > 40: return f(n - 4) + 3020
+        if n <= 40: return 3 * (g(n - 2) - 15)
+    @lru_cache(None)
+    def g(n):
+        if n >= 301208: return 10 * n + 50
+        return g(n + 7) - 21
+    for i in range(301900, 1, -1):
+        g(i)
+    print(f(2026))
+
+F(n)=F(n−4)+3580, если n≥19n≥19;
+F(n)=6×(G(n−7)−36)F(n)=6×(G(n−7)−36), если n<19n<19;
+G(n)=n/20+28G(n)=n/20+28, если n≥248045n≥248045;
+G(n)=G(n+9)−4G(n)=G(n+9)−4, если n<248045n<248045.
+Чему равно значение функции F(673)F(673)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n >= 19: return f(n - 4) + 3580
+        return 6 * (g(n - 7) - 36)
+    @lru_cache(None)
+    def g(n):
+        if n >= 248045: return n / 20 + 28
+        return g(n + 9) - 4
+    for i in range(248900, 1, -1):
+        g(i)
+    print(f(673))
+
+F(n)=G(n−50000)+G(n+50000)
+G(n)=5nG(n)=5n, если n⩽6n⩽6
+G(n)=G(n−3)+2G(n)=G(n−3)+2, если n>6n>6
+Чему равно значение выражения F(100000)F(100000)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        return g(n - 50000) + g(n + 50000)
+    @lru_cache(None)
+    def g(n):
+        if n <= 6: return 5**n
+        return g(n - 3) + 2
+    for i in range(-200000, 200000):
+        g(i)
+    print(f(100000))
+
+
+F(n)=G(n)=n, если n<10n<10;
+F(n)=3⋅n+G(n−2)F(n)=3⋅n+G(n−2), если n>9n>9;
+G(n)=n−2+F(n−1)G(n)=n−2+F(n−1), если n>9n>9.
+Чему равно значение выражения F(2204)−G(2200)F(2204)−G(2200)?
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def f(n):
+        if n < 10: return n
+        if n > 9: return 3 * n + g(n - 2)
+    @lru_cache(None)
+    def g(n):
+        if n < 10: return n
+        if n > 9: return n - 2 + f(n - 1)
+    for i in range(1, 4000):
+        g(i)
+    print(f(2204) - g(2200))
