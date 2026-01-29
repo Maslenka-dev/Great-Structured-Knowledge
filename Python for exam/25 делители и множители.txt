@@ -5,16 +5,16 @@
     Функция нахождения делителей:
 
         def f(n):
-            divs = set()
+            ds = set()
             for i in range(1, int(n ** 0.5) + 1):
                 if n % i == 0: 
-                    divs.add(i)
-                    divs.add(n // i)
-            return divs 
+                    ds.add(i)
+                    ds.add(n // i)
+            return ds 
 
     С сортировкой:
 
-        def fd(n):
+        def f(n):
             ds = set()
             for i in range(1, int(n ** 0.5) + 1):
                 if n % i == 0: 
@@ -24,7 +24,7 @@
 
     "не считая единицы и самого числа":
 
-        def fd(n):
+        def f(n):
             ds = set()
             for i in range(2, int(n ** 0.5) + 1):
                 if n % i == 0:
