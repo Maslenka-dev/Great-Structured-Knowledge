@@ -70,76 +70,76 @@ d(A,B)=∣x2−x1∣+∣y2−y1∣d(A,B)=∣x2−x1∣+∣y2−y1∣
 В ответе запишите четыре числа: в первой строке сначала целую часть абсолютного значения произведения Px∗1000 затем целую часть абсолютного значения произведения Py∗1000 для файла A; во второй строке — аналогичные данные для файла B.
 Возможные данные одного из файлов иллюстрированы графиком. 
 
-    Манхеттенское расстояние:
+        Манхеттенское расстояние:
 
-        def r(p1, p2):
-            x1 = p1[0]
-            x2 = p2[0]
-            y1 = p1[1]
-            y2 = p2[1]
-            return abs(x2 - x1) + abs(y2 - y1)
+            def r(p1, p2):
+                x1 = p1[0]
+                x2 = p2[0]
+                y1 = p1[1]
+                y2 = p2[1]
+                return abs(x2 - x1) + abs(y2 - y1)
 
-    Для файла А:
+        Для файла А:
 
-        def r(p1, p2):
-            x1 = p1[0]
-            x2 = p2[0]
-            y1 = p1[1]
-            y2 = p2[1]
-            return abs(x2 - x1) + abs(y2 - y1)
+            def r(p1, p2):
+                x1 = p1[0]
+                x2 = p2[0]
+                y1 = p1[1]
+                y2 = p2[1]
+                return abs(x2 - x1) + abs(y2 - y1)
 
-        def center(cl):
-            l = []
-            for p1 in cl: # потенциальный центр
-                sm = 0
-                for p2 in cl:
-                    sm += r(p1, p2) # увеличиваем sm на расстояние от p1 до p2
-                l.append([sm, p1])
-            return min(l)[1] # возвращаем точку, от которой расстояние до других минимально
+            def center(cl):
+                l = []
+                for p1 in cl: # потенциальный центр
+                    sm = 0
+                    for p2 in cl:
+                        sm += r(p1, p2) # увеличиваем sm на расстояние от p1 до p2
+                    l.append([sm, p1])
+                return min(l)[1] # возвращаем точку, от которой расстояние до других минимально
 
-        a = open('27_A_18314.txt')
-        clusters = [[], []]
-        for s in a:
-            x, y = [float(t) for t in s.replace(',', '.').split()]
-            if x < 24: clusters[0].append([x, y])
-            else: clusters[1].append([x, y])
+            a = open('27_A_18314.txt')
+            clusters = [[], []]
+            for s in a:
+                x, y = [float(t) for t in s.replace(',', '.').split()]
+                if x < 24: clusters[0].append([x, y])
+                else: clusters[1].append([x, y])
 
-        res = list(center(t) for t in clusters)
-        Px = sum(list(t[0] for t in res)) / len(res)
-        Py = sum(list(t[1] for t in res)) / len(res)
-        print(Px, Py)
-        print(int(abs(Px * 1000)), int(abs(Py * 1000)))
+            res = list(center(t) for t in clusters)
+            Px = sum(list(t[0] for t in res)) / len(res)
+            Py = sum(list(t[1] for t in res)) / len(res)
+            print(Px, Py)
+            print(int(abs(Px * 1000)), int(abs(Py * 1000)))
 
-    Для файла Б:
+        Для файла Б:
 
-        def r(p1, p2):
-            x1 = p1[0]
-            x2 = p2[0]
-            y1 = p1[1]
-            y2 = p2[1]
-            return abs(x2 - x1) + abs(y2 - y1)
+            def r(p1, p2):
+                x1 = p1[0]
+                x2 = p2[0]
+                y1 = p1[1]
+                y2 = p2[1]
+                return abs(x2 - x1) + abs(y2 - y1)
 
-        def center(cl):
-            l = []
-            for p1 in cl: # потенциальный центр
-                sm = 0
-                for p2 in cl:
-                    sm += r(p1, p2) # увеличиваем sm на расстояние от p1 до p2
-                l.append([sm, p1])
-            return min(l)[1] # возвращаем точку, от которой расстояние до других минимально
+            def center(cl):
+                l = []
+                for p1 in cl: # потенциальный центр
+                    sm = 0
+                    for p2 in cl:
+                        sm += r(p1, p2) # увеличиваем sm на расстояние от p1 до p2
+                    l.append([sm, p1])
+                return min(l)[1] # возвращаем точку, от которой расстояние до других минимально
 
-        a = open('27_B_18314.txt')
-        clusters = [[], [], []]
-        for s in a:
-            x, y = [float(t) for t in s.replace(',', '.').split()]
-            if x < -10: clusters[0].append([x, y])
-            if -10 < x < 18: clusters[1].append([x, y])
-            if x > 18: clusters[2].append([x, y])
-        res = list(center(t) for t in clusters)
-        Px = sum(list(t[0] for t in res)) / len(res)
-        Py = sum(list(t[1] for t in res)) / len(res)
-        print(Px, Py)
-        print(int(abs(Px * 1000)), int(abs(Py * 1000)))
+            a = open('27_B_18314.txt')
+            clusters = [[], [], []]
+            for s in a:
+                x, y = [float(t) for t in s.replace(',', '.').split()]
+                if x < -10: clusters[0].append([x, y])
+                if -10 < x < 18: clusters[1].append([x, y])
+                if x > 18: clusters[2].append([x, y])
+            res = list(center(t) for t in clusters)
+            Px = sum(list(t[0] for t in res)) / len(res)
+            Py = sum(list(t[1] for t in res)) / len(res)
+            print(Px, Py)
+            print(int(abs(Px * 1000)), int(abs(Py * 1000)))
 
 Фрагмент звёздного неба спроецирован на плоскость с декартовой системой координат. Учёный решил провести кластеризацию полученных точек, являющихся изображениями звёзд, то есть разбить их множество на N непересекающихся непустых подмножеств (кластеров) так, что они будут лежать внутри сектора окружности радиуса R = 50 с центральным углом 20°. Гарантируется, что такое разбиение существует и единственно.
 Будем называть центром кластера точку этого кластера, сумма расстояний от которой до всех остальных точек кластера минимальна. Для каждого кластера гарантируется единственность его центра. Расстояние между двумя точками на плоскости A(x1,y1) и B(x2,y2) вычисляется по формуле: d(A,B)= ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
@@ -150,118 +150,187 @@ d(A,B)=∣x2−x1∣+∣y2−y1∣d(A,B)=∣x2−x1∣+∣y2−y1∣
 В ответе запишите четыре числа: в первой строке сначала целая часть абсолютного значения произведения Px×10000, затем целая часть абсолютного значения произведения Py×10000 для файла А, во второй строке – аналогичные данные для файла B.
 Возможные данные одного из файлов иллюстрированы графиком. 
 
-Евклидово расстояние:
+    Евклидово расстояние:
 
-    def rast(x1, x2, y1, y2):
-        return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+        def rast(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
 
-Для файла А:
+    Для файла А:
 
-    def rast(x1, x2, y1, y2):
-        return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+        def rast(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
 
-    def center(cl):
-        l = []
-        for p1 in cl:
-            sm = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) for p2 in cl))
-            l.append([sm, p1])
-        return min(l)[1]
+        def center(cl):
+            l = []
+            for p1 in cl:
+                sm = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) for p2 in cl))
+                l.append([sm, p1])
+            return min(l)[1]
 
-    a = open('27_A_21599.txt')
-    clusters = [[], [], []]
-    for s in a:
-        x, y = list(float(t) for t in s.replace(',', '.').split())
-        if y < -5: clusters[0].append([x, y])
-        if y > x - 12: clusters[1].append([x, y])
-        if -5 < y < x - 12: clusters[2].append([x, y])
+        a = open('27_A_21599.txt')
+        clusters = [[], [], []]
+        for s in a:
+            x, y = list(float(t) for t in s.replace(',', '.').split())
+            if y < -5: clusters[0].append([x, y])
+            if y > x - 12: clusters[1].append([x, y])
+            if -5 < y < x - 12: clusters[2].append([x, y])
 
-    res = list(center(t) for t in clusters)
-    Px = sum(list(t[0] for t in res)) / len(res)
-    Py = sum(list(t[1] for t in res)) / len(res)
-    print(int(abs(Px * 10000)), int(abs(Py * 10000)))
+        res = list(center(t) for t in clusters)
+        Px = sum(list(t[0] for t in res)) / len(res)
+        Py = sum(list(t[1] for t in res)) / len(res)
+        print(int(abs(Px * 10000)), int(abs(Py * 10000)))
 
-Для файла Б:
+    Для файла Б:
 
-    def f(x1, x2, y1, y2):
-        k = (y2 - y1) / (x2 - x1)
-        b = y1 - k * x1
-        return [k, b]
-    print(f(2, 6, 2, 5))
-    print(f(-6, -5, 1, 3))
-    print(f(-9, -10, 1, 9))
-    print(f(-13, -15, 1, 4))
+        def f(x1, x2, y1, y2):
+            k = (y2 - y1) / (x2 - x1)
+            b = y1 - k * x1
+            return [k, b]
+        print(f(2, 6, 2, 5))
+        print(f(-6, -5, 1, 3))
+        print(f(-9, -10, 1, 9))
+        print(f(-13, -15, 1, 4))
 
-    # y = -5
-    # y = 0.75x + 0.5
-    # y = 2x + 13
-    # y = -8x - 71
-    # y -1.5x - 18
+        # y = -5
+        # y = 0.75x + 0.5
+        # y = 2x + 13
+        # y = -8x - 71
+        # y -1.5x - 18
 
-    def rast(x1, x2, y1, y2):
-        return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+        def rast(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
 
-    def center(cl):
-        l = []
-        for p1 in cl:
-            sm = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) for p2 in cl))
-            l.append([sm, p1])
-        return min(l)[1]
+        def center(cl):
+            l = []
+            for p1 in cl:
+                sm = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) for p2 in cl))
+                l.append([sm, p1])
+            return min(l)[1]
 
-    a = open('27_B_21599.txt')
-    clusters = [[], [], [], [], [], []]
-    for s in a:
-        x, y = list(float(t) for t in s.replace(',', '.').split())
-        if y < -5: clusters[0].append([x, y])
-        elif y < 0.75*x + 0.5: clusters[1].append([x, y])
-        elif y < 2*x + 13: clusters[2].append([x, y])
-        elif y > -8*x - 71: clusters[3].append([x, y])
-        elif y > -1.5*x - 18: clusters[4].append([x, y])
-        elif y > -5: clusters[5].append([x, y])    
+        a = open('27_B_21599.txt')
+        clusters = [[], [], [], [], [], []]
+        for s in a:
+            x, y = list(float(t) for t in s.replace(',', '.').split())
+            if y < -5: clusters[0].append([x, y])
+            elif y < 0.75*x + 0.5: clusters[1].append([x, y])
+            elif y < 2*x + 13: clusters[2].append([x, y])
+            elif y > -8*x - 71: clusters[3].append([x, y])
+            elif y > -1.5*x - 18: clusters[4].append([x, y])
+            elif y > -5: clusters[5].append([x, y])    
 
-    res = list(center(t) for t in clusters)
-    Px = sum(list(t[0] for t in res)) / len(res)
-    Py = sum(list(t[1] for t in res)) / len(res)
-    print(int(abs(Px * 10000)), int(abs(Py * 10000)))
+        res = list(center(t) for t in clusters)
+        Px = sum(list(t[0] for t in res)) / len(res)
+        Py = sum(list(t[1] for t in res)) / len(res)
+        print(int(abs(Px * 10000)), int(abs(Py * 10000)))
 
-    ИЛИ (более краткая запись кластеризации через elif):
+Учёный решил провести кластеризацию некоторого множества звёзд по их расположению на карте звёздного неба. Кластер звёзд – это набор звёзд (точек) на графике, лежащий внутри прямоугольника высотой H и шириной W. Каждая звезда обязательно принадлежит только одному из кластеров.
+Истинный центр кластера, или центроид, – это одна из звёзд на графике, суммарное гравитационное воздействие которой на звёзды кластера минимально. Гравитационное воздействие между двумя звёздами равно произведению расстояния между ними на модуль разности гравитационного поля этих звёзд. Под расстоянием понимается расстояние Евклида между двумя точками A(x1, y1) и B(x2, y2) на плоскости, которое вычисляется по формуле: ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+В файле A хранятся данные о звёздах двух кластеров, где H=7, W=8 для каждого кластера. В каждой строке записана информация о расположении на карте одной звезды: сначала координата x, затем координата y, последним значением указано гравитационное поле g. Значения даны в условных единицах. Известно, что количество звёзд не превышает 1 000.
+В файле B хранятся данные о звёздах трёх кластеров, где H=6, W=12 для каждого кластера. Известно, что количество звёзд не превышает 10 000. Структура хранения информации о звездах в файле B аналогична файлу А.
+Для каждого файла определите координаты центроида каждого кластера, затем определите центроид гравитационное поле которого максимально.
+В ответе запишите четыре числа: в первой строке сначала целую часть координаты х×1000, затем целую часть координаты y× 1000 найденного центроида для файла А, во второй строке – аналогичные данные для файла B.
 
-    def f(x1, x2, y1, y2):
-        k = (y2 - y1) / (x2 - x1)
-        b = y1 - k * x1
-        return [k, b]
-    print(f(2, 6, 2, 5))
-    print(f(-6, -5, 1, 3))
-    print(f(-9, -10, 1, 9))
-    print(f(-13, -15, 1, 4))
+    Для файла А:
 
-    # y = -5
-    # y = 0.75x + 0.5
-    # y = 2x + 13
-    # y = -8x - 71
-    # y -1.5x - 18
+        def rast(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2)**0.5
 
-    def rast(x1, x2, y1, y2):
-        return ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+        def center(cl):
+            l = []
+            for p1 in cl:
+                grav = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) * abs(p1[2] - p2[2]) for p2 in cl))
+                l.append([grav, p1])
+            return min(l)[1]
 
-    def center(cl):
-        l = []
-        for p1 in cl:
-            sm = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) for p2 in cl))
-            l.append([sm, p1])
-        return min(l)[1]
+        a = open('27_A_17953.txt')
+        clust = [[], []]
+        for s in a:
+            x, y, g = list(float(t) for t in s.replace(',', '.').split())
+            if y < 15: clust[0].append([x, y, g])
+            else: clust[1].append([x, y, g])
 
-    a = open('27_B_21599.txt')
-    clusters = [[], [], [], [], [], []]
-    for s in a:
-        x, y = list(float(t) for t in s.replace(',', '.').split())
-        if y < -5: clusters[0].append([x, y])
-        elif y < 0.75*x + 0.5: clusters[1].append([x, y])
-        elif y < 2*x + 13: clusters[2].append([x, y])
-        elif y > -8*x - 71: clusters[3].append([x, y])
-        elif y > -1.5*x - 18: clusters[4].append([x, y])
-        elif y > -5: clusters[5].append([x, y])    
+        res = list(center(t) for t in clust)
+        ans = max(list(center(t)[::-1] for t in clust)) 
+        print(int((ans)[-1]*1000), int((ans)[-2]*1000))
 
-    res = list(center(t) for t in clusters)
-    Px = sum(list(t[0] for t in res)) / len(res)
-    Py = sum(list(t[1] for t in res)) / len(res)
-    print(int(abs(Px * 10000)), int(abs(Py * 10000)))
+    Для файла Б:
+
+        def rast(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+
+        def center(cl):
+            l = []
+            for p1 in cl:
+                grav = sum(list(rast(p1[0], p2[0], p1[1], p2[1]) * abs(p1[2] - p2[2]) for p2 in cl))
+                l.append([grav, p1])
+            return min(l)[1]
+
+        a = open('27_B_17953.txt')
+        clust = [[], [], []]
+        for s in a:
+            x, y, g = list(float(t) for t in s.replace(',', '.').split())
+            if y < 6: clust[0].append([x, y, g])
+            if y > 6 and x > 10: clust[1].append([x, y, g])
+            if y > 11 and x < 10: clust[2].append([x, y, g])
+
+        ans = max(list(center(t)[::-1] for t in clust)) 
+        print(int((ans)[-1]*1000), int((ans)[-2]*1000))
+
+Фрагмент звёздного неба спроецирован на плоскость с декартовой системой координат. Учёный решил провести кластеризацию полученных точек, являющихся изображениями звёзд, то есть разбить их множество на N непересекающихся непустых подмножеств (кластеров), таких что точки каждого подмножества лежат внутри прямоугольника со сторонами длиной H и W, причём эти прямоугольники между собой не пересекаются. Стороны прямоугольников не обязательно параллельны координатным осям. Гарантируется, что такое разбиение существует и единственно для заданных размеров прямоугольников.
+Диаметром кластера назовём максимальное расстояние между двумя точками в кластере.  Расстояние между двумя точками на плоскости A(x1,y1) и B(x2,y2) вычисляется по формуле: ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+В файле A хранятся данные о звёздах четырёх кластеров, где H=3, W=3 для каждого кластера. В каждой строке записана информация о расположении на карте одной звезды: сначала координата x, затем координата y. Значения даны в условных единицах. Известно, что количество звёзд не превышает 1000.
+В файле B хранятся данные о звёздах семи кластеров, где H=5, W=5 для каждого кластера. Известно, что количество звёзд не превышает 10 000. Структура хранения информации о звездах в файле B аналогична файлу А.
+Для каждого файла определите диаметр каждого кластера, затем вычислите два числа: Dmin – минимальный диаметр кластера, и Davg – среднее арифметическое диаметров кластеров. В ответе запишите четыре числа: в первой строке сначала целую часть произведения Dmin×100000, затем целую часть произведения Davg×100000 для файла А, во второй строке – аналогичные данные для файла Б.
+
+    Для файла А:
+
+        def f(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+         
+        def d(cl):
+            l = []
+            for p1 in cl:
+                otr = max(f(p1[0], p2[0], p1[1], p2[1]) for p2 in cl)
+                l.append(otr)
+            return max(l)
+
+        a = open('27A_20291.txt')
+        clust = [[], [], [], []]
+        for s in a:
+            x, y = list(float(t) for t in s.replace(',', '.').split()) 
+            if y < 0 and x < 1: clust[0].append([x, y])
+            if y > 0 and x < 1: clust[1].append([x, y])
+            if y < 2 and x > 3: clust[2].append([x, y])
+            if y > 2 and x > 2: clust[3].append([x, y])
+
+        Dcl = list(d(t) for t in clust)
+        Davg = sum(Dcl) / len(Dcl)
+        print(int(min(Dcl) * 100000), int(Davg * 100000))
+
+    Для файла Б:
+
+        def f(x1, x2, y1, y2):
+            return ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+         
+        def d(cl):
+            l = []
+            for p1 in cl:
+                otr = max(f(p1[0], p2[0], p1[1], p2[1]) for p2 in cl)
+                l.append(otr)
+            return max(l)
+
+        a = open('27B_20291.txt')
+        clust = [[], [], [], [], [], [], []]
+        for s in a:
+            x, y = list(float(t) for t in s.replace(',', '.').split())
+            if x < -4: clust[0].append([x, y])
+            elif x < 1 and y < -4: clust[1].append([x, y])
+            elif x < 1 and y > -2: clust[2].append([x, y])
+            elif x > 1 and y < 1 and x < 6: clust[3].append([x, y])
+            elif x > 1 and y > 1 and x < 6: clust[4].append([x, y])
+            elif x > 6 and y > 3 and x < 11: clust[5].append([x, y])
+            elif x > 6 and y < -1 and x < 11: clust[6].append([x, y])
+
+        Dcl = list(d(t) for t in clust)
+        Davg = sum(Dcl) / len(Dcl)
+        print(int(min(Dcl) * 100000), int(Davg * 100000))
